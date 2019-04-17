@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixCinerea</ID>
+    <Nom>Salix cinerea L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule cendré</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>cinerea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59408</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3298</NumeroTaxon>
+        <Description>Arbrisseau de 2-6 mètres, à rameaux un peu divariqués, peu anguleux, les jeunes et les bourgeons tomenteux-cendrés ; bois nu strié en long ; feuilles assez grandes, pétiolées, obovales ou oblongues-Lanceolees, à pointe droite ou un peu déjetée, un peu ondulées, planes, glabres ou pubescentes en dessus, glauques-blanchâtres et à la fin glabrescentes en dessous ; chatons précoces, oblongs ou cylindriques, denses, subsessiles, à écailles velues, noirâtres au sommet ; style court ; capsule tomenteuse, à pédicelle 3-4 fois plus long que la glande.</Description>
+        <Localisation>Lieux humides, dans toute la France et la Corse. Europe ; Asie occidentale et boréale, Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/4529.jpg</Scan>
+        <Scan>train/8434.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

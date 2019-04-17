@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusRobur</ID>
+    <Nom>Quercus robur L. </Nom>
+    <NomsVernaculaires>
+        <Français>Chêne pédonculé</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>robur</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Obovale</Forme>
+            <Forme>Oblongue</Forme>
+            <Base>Subauriculee</Base>
+            <Bord>Sinuee</Bord>
+            <Bord>Lobee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/78160</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3278</NumeroTaxon>
+        <Description>Arbre très élevé, à bois moins dur que les autres chènes ; jeunes rameaux flexibles, glabres ; feuilles presque sessiles, caduques, obovales-oblongues, subauriculées à la base, entièrement glabres, d'un vert clair ; fleurs femelles éparses sur un long pédoncule glabre ; style en colonne, à stigmates dressés, réfléchis seulement à la pointe épaissie en bourrelet ; fruits pendants sur un pédoncule beaucoup plus long que le pétiole ; cupule glabre, à écailles peu nombreuses, courtes, exactement appliquées ; glands oblongs.</Description>
+        <Localisation>Bois frais ou humides, dans presque toute la France nul dans la plaine méditerranéenne ; Corse. Europe, Asie Mineure, Caucase ; Maroc. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/459.jpg</Scan>
+        <Scan>train/820.jpg</Scan>
+        <Scan>train/1068.jpg</Scan>
+        <Scan>train/1085.jpg</Scan>
+        <Scan>train/1441.jpg</Scan>
+        <Scan>train/2297.jpg</Scan>
+        <Scan>train/2570.jpg</Scan>
+        <Scan>train/2626.jpg</Scan>
+        <Scan>train/2829.jpg</Scan>
+        <Scan>train/3302.jpg</Scan>
+        <Scan>train/3377.jpg</Scan>
+        <Scan>train/3407.jpg</Scan>
+        <Scan>train/3837.jpg</Scan>
+        <Scan>train/4478.jpg</Scan>
+        <Scan>train/4627.jpg</Scan>
+        <Scan>train/7103.jpg</Scan>
+        <Scan>train/7467.jpg</Scan>
+        <Scan>train/8737.jpg</Scan>
+        <Scan>train/8838.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

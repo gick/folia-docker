@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AcerPseudoplatanus</ID>
+    <Nom>Acer pseudoplatanus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Erable sycomore</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Acer</Genus>
+        <Species>pseudoplatanus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+            <Forme>Palmatilobee</Forme>
+            <NombreLobes>5</NombreLobes>
+            <Lobe>Ovale</Lobe>
+            <Sommet>Courtement Acuminee</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Dentee</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/210</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>689</NumeroTaxon>
+        <Description>Arbre élevé, à écorce lisse ; feuilles grandes, vertes et glabres en dessus, mates et pubescentes-blanchâtres en dessous, un peu en coeur à la base, à 5 lobes ovales à peines acuminés, fortement et inégalement dentés, séparés profondément par des sinus très aigus ; fleurs verdâtres paraissant après les premières feuilles, en grappes fournies, allongées, pendantes ; pédicelles, sépales, pétales, filets des étamines et ovaires velus ; samares glabres, à coques convexes, bossues-anguleuses, nervées, à ailes dressées-étalées, rétrécies à la base.</Description>
+        <Localisation>Bois des montagnes, dans presque toute la France et en Corse. Très souvent planté. Europe, surtout centrale ; Caucase et Arménie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/1690.jpg</Scan>
+        <Pseudoscan>train/1747.jpg</Pseudoscan>
+        <Scan>train/1808.jpg</Scan>
+        <Pseudoscan>train/2991.jpg</Pseudoscan>
+        <Scan>train/3003.jpg</Scan>
+        <Scan>train/3537.jpg</Scan>
+        <Scan>train/4068.jpg</Scan>
+        <Photograph>train/4613.jpg</Photograph>
+        <Photograph>train/4800.jpg</Photograph>
+        <Pseudoscan>train/5217.jpg</Pseudoscan>
+        <Scan>train/5982.jpg</Scan>
+        <Scan>train/6056.jpg</Scan>
+        <Scan>train/6175.jpg</Scan>
+        <Scan>train/6447.jpg</Scan>
+        <Scan>train/6875.jpg</Scan>
+        <Scan>train/6932.jpg</Scan>
+        <Scan>train/8491.jpg</Scan>
+        <Pseudoscan>train/9016.jpg</Pseudoscan>
+        <Scan>train/9910.jpg</Scan>
+        <Photograph>train/10053.jpg</Photograph>
+        <Scan>train/10431.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusSerotina</ID>
+    <Nom>Prunus serotina Ehrh.</Nom>
+    <NomsVernaculaires>
+        <Français>Cerisier d'automne</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>serotina</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Sommet>Aigue</Sommet>
+            <Bord>Dentee en Scie</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53647</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Scan>train/428.jpg</Scan>
+        <Scan>train/899.jpg</Scan>
+        <Scan>train/1734.jpg</Scan>
+        <Scan>train/2699.jpg</Scan>
+        <Scan>train/3483.jpg</Scan>
+        <Scan>train/3539.jpg</Scan>
+        <Scan>train/3988.jpg</Scan>
+        <Scan>train/4170.jpg</Scan>
+        <Scan>train/4894.jpg</Scan>
+        <Scan>train/4916.jpg</Scan>
+        <Scan>train/5620.jpg</Scan>
+        <Scan>train/8362.jpg</Scan>
+        <Scan>train/8634.jpg</Scan>
+        <Scan>train/8895.jpg</Scan>
+        <Scan>train/9063.jpg</Scan>
+        <Scan>train/9230.jpg</Scan>
+        <Scan>train/9764.jpg</Scan>
+        <Scan>train/9983.jpg</Scan>
+        <Scan>train/10004.jpg</Scan>
+        <Scan>train/10054.jpg</Scan>
+        <Scan>train/10221.jpg</Scan>
+        <Scan>train/10355.jpg</Scan>
+        <Scan>train/10361.jpg</Scan>
+        <Scan>train/10465.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>ViburnumLantana</ID>
+    <Nom>Viburnum lantana L. </Nom>
+    <NomsVernaculaires>
+        <Français>Viorne lantane</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Viburnum</Genus>
+        <Species>lantana</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Arrondie</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/71453</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1650</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 2 mètres, à rameaux très flexibles, couverts, ainsi que les bourgeons et la face inférieure des feuilles, de poils étoilés pulvérulents ; </Description>
+        <Localisation>Haies et bois, surtout des terrains calcaires, dans toute la France. Europe centrale et méridionale ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/82.jpg</Scan>
+        <Scan>train/233.jpg</Scan>
+        <Scan>train/569.jpg</Scan>
+        <Scan>train/1023.jpg</Scan>
+        <Scan>train/1508.jpg</Scan>
+        <Scan>train/1863.jpg</Scan>
+        <Scan>train/2222.jpg</Scan>
+        <Scan>train/2612.jpg</Scan>
+        <Scan>train/2966.jpg</Scan>
+        <Scan>train/3215.jpg</Scan>
+        <Scan>train/3986.jpg</Scan>
+        <Scan>train/4247.jpg</Scan>
+        <Scan>train/5010.jpg</Scan>
+        <Photograph>train/5911.jpg</Photograph>
+        <Scan>train/5912.jpg</Scan>
+        <Scan>train/6263.jpg</Scan>
+        <Scan>train/7083.jpg</Scan>
+        <Scan>train/7211.jpg</Scan>
+        <Scan>train/7303.jpg</Scan>
+        <Scan>train/7874.jpg</Scan>
+        <Scan>train/8129.jpg</Scan>
+        <Scan>train/8662.jpg</Scan>
+        <Scan>train/9212.jpg</Scan>
+        <Scan>train/9714.jpg</Scan>
+        <Scan>train/10174.jpg</Scan>
+        <Scan>train/10379.jpg</Scan>
+        <Scan>train/10408.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

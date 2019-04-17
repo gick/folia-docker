@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusSerrulata</ID>
+    <Nom>Prunus serrulata Lindl.</Nom>
+    <NomsVernaculaires>
+        <Français>Cerisier du Japon</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>serrulata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53648</TelaBotanica>
+    <Pl@ntLeaves>
+        <Photograph>train/818.jpg</Photograph>
+        <Photograph>train/6965.jpg</Photograph>
+        <Photograph>train/10282.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

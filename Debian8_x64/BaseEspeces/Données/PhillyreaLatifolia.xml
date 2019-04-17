@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PhillyreaLatifolia</ID>
+    <Nom>Phillyrea latifolia L. </Nom>
+    <NomsVernaculaires>
+        <Français>Filaire à feuilles larges</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Phillyrea</Genus>
+        <Species>latifolia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/48861</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>2465</NumeroTaxon>
+        <Description>Arbrisseau ou petit arbre atteignant 6-8 mètres, à rameaux robustes et raides ; feuilles inférieures larges, ovales ou elliptiques-oblongues, légèrement en coeur à la base, courtement petiolées, dentées-épineuses, les supérieures plus étroites et finement dentées, à nervure dorsale saillante ; fleurs en grappes courtes et peu fournies ; drupe de la grosseur d'un pois, noire, globuleuse, obtuse, ombiliquée, non apiculée, à noyau globuleux.</Description>
+        <Localisation>Bois et coteaux pierreux do la région méditerranéenne ; Alpes-Maritimes, Var, Aude, Pyrénées-Orientales ; Corse. Espagne et Portugal, Baléares, Sardaigne, Sicile, Italie, Istrie et Dalmatie ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusCerasus</ID>
+    <Nom>Prunus cerasus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Griottier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>cerasus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Forme>Obovale</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Doublement Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53446</TelaBotanica>
+</Espèce>

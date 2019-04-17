@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RhamnusCathartica</ID>
+    <Nom>Rhamnus cathartica L. </Nom>
+    <NomsVernaculaires>
+        <Français>Nerprun cathartique</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rhamnus</Genus>
+        <Species>cathartica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Denticulee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/55797</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>714</NumeroTaxon>
+        <Description>Arbrisseau de 2-4 mètres, à rameaux opposés, épineux, d'un brun noirâtre, les jeunes pubescents ; feuilles caduques, fasciculées sur les anciens rameaux, subopposées sur les jeunes, larges de 2-3 cm., ovales ou elliptiques, denticulées, munies de chaque côté de la nervure médiane de 3-4 nervures convergentes, saillantes ; pétiole égalant la moitié du limbe et 2-3 fois plus long que les stipules ; fleurs dioïques, jaunâtres, en faisceaux bien fournis ; calice à 4 lobes lancéolés, égalant le tube ; 4 pétales ; graines à sillon dorsal fermé.</Description>
+        <Localisation>Haies et bois, dans presque toute la France ; rare dans le midi ; Europe ; Asie occidentale, jusque dans l'Afghanistan ; Algérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/10.jpg</Scan>
+        <Scan>train/679.jpg</Scan>
+        <Scan>train/1298.jpg</Scan>
+        <Scan>train/1823.jpg</Scan>
+        <Scan>train/2009.jpg</Scan>
+        <Scan>train/2924.jpg</Scan>
+        <Scan>train/3069.jpg</Scan>
+        <Scan>train/3108.jpg</Scan>
+        <Scan>train/5198.jpg</Scan>
+        <Scan>train/5220.jpg</Scan>
+        <Scan>train/5459.jpg</Scan>
+        <Scan>train/5693.jpg</Scan>
+        <Scan>train/5919.jpg</Scan>
+        <Scan>train/5962.jpg</Scan>
+        <Scan>train/6826.jpg</Scan>
+        <Scan>train/7032.jpg</Scan>
+        <Scan>train/7141.jpg</Scan>
+        <Scan>train/7262.jpg</Scan>
+        <Scan>train/7263.jpg</Scan>
+        <Scan>train/7295.jpg</Scan>
+        <Scan>train/8192.jpg</Scan>
+        <Scan>train/8342.jpg</Scan>
+        <Scan>train/8445.jpg</Scan>
+        <Scan>train/8663.jpg</Scan>
+        <Scan>train/9086.jpg</Scan>
+        <Scan>train/9339.jpg</Scan>
+        <Scan>train/9727.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

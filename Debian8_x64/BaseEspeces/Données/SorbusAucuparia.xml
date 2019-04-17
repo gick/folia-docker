@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SorbusAucuparia</ID>
+    <Nom>Sorbus aucuparia L.</Nom>
+    <NomsVernaculaires>
+        <Français>Sorbier des oiseleurs</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sorbus</Genus>
+        <Species>aucuparia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Imparipennee</Forme>
+            <NombreFolioles>11-17</NombreFolioles>
+            <Foliole>Oblongue</Foliole>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/65277</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1267</NumeroTaxon>
+        <Description>Arbre peu élevé, à bourgeons velus, non visqueux, appliqués ; feuilles Imparipennees, à 11-17 folioles oblongues, dentées presque dès la base qui est obliquement échancrée d'un côté de lu nervure, glabrescentes à l'état adulte ; fleurs blanches, de 6-8 mm. de diam. ; calice à lobes courbes en dedans après la floraison ; 3 styles, droits, laineux à la base ; fruit petit (1 cm. de diam.), subglobuleux, lisse, d'un rouge vif, acerbe à l'état pulpeux, persistant l'hiver.</Description>
+        <Localisation>Bois des montagnes, sur tout siliceuses, dans une grande partie de la France, nul dans la région méditerranéenne et clans l'ouest jusqu'au Morbihan ; Corse. Toute l'Europe jusqu'en Islande , Asie occidentale et boréale, Japon. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/1072.jpg</Pseudoscan>
+        <Pseudoscan>train/3572.jpg</Pseudoscan>
+        <Pseudoscan>train/6137.jpg</Pseudoscan>
+        <Pseudoscan>train/7957.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

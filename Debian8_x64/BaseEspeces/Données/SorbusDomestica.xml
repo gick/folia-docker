@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SorbusDomestica</ID>
+    <Nom>Sorbus domestica L.</Nom>
+    <NomsVernaculaires>
+        <Français>Sorbier domestique</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sorbus</Genus>
+        <Species>domestica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Imparipennee</Forme>
+            <NombreFolioles>11-17</NombreFolioles>
+            <Foliole>Oblongue</Foliole>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/65300</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1266</NumeroTaxon>
+        <Description>Arbre assez élevé, à bourgeons glabres, visqueux, dressés ; feuilles Imparipennees, à 11-17 folioles oblongues, dentées sauf à la base entière et non échancrée, pubescentes-tomenteuses en dessous, à la fin glabres ; fleurs blanches, de 8-10 mm. de diam. ; calice à lobes courbes en dehors après la floraison ; 5 styles, couplés, laineux sur toute leur longueur ; fruit assez gros (3 cm. de long), en poire, d'un vert rougeâtre ou roussâtre à la maturité, sucré à l'état pulpeux, caduc en automne.</Description>
+        <Localisation>Haies et bois, surtout calcaires, dans le Midi, le Centre et l'Ouest, jusqu'au Morbillan et en Lorraine, Corse. Europe méridionale, Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/199.jpg</Scan>
+        <Scan>train/271.jpg</Scan>
+        <Scan>train/839.jpg</Scan>
+        <Scan>train/1642.jpg</Scan>
+        <Scan>train/1717.jpg</Scan>
+        <Scan>train/2014.jpg</Scan>
+        <Scan>train/2119.jpg</Scan>
+        <Scan>train/2402.jpg</Scan>
+        <Scan>train/2645.jpg</Scan>
+        <Scan>train/3597.jpg</Scan>
+        <Scan>train/4151.jpg</Scan>
+        <Scan>train/5976.jpg</Scan>
+        <Scan>train/6598.jpg</Scan>
+        <Scan>train/7342.jpg</Scan>
+        <Scan>train/7825.jpg</Scan>
+        <Scan>train/8150.jpg</Scan>
+        <Scan>train/8508.jpg</Scan>
+        <Scan>train/9724.jpg</Scan>
+        <Scan>train/9889.jpg</Scan>
+        <Scan>train/10200.jpg</Scan>
+        <Scan>train/10374.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

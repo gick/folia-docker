@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CeratoniaSiliqua</ID>
+    <Nom>Ceratonia siliqua L.</Nom>
+    <NomsVernaculaires>
+        <Français>Caroubier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ceratonia</Genus>
+        <Species>siliqua</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/16142</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>742</NumeroTaxon>
+        <Description>Arbre atteignant 5-10 mètres ; feuilles persistantes, paripennées, à 3-5 paires de folioles ovales, entières, pennatinervées, coriaces, luisantes en dessus, plus pâles en dessous ; stipules très caduques ; fleurs verdâtres, très petites, nombreuses, en grappes oblongues, dressées, axillaires,  brièvement pédonculées ; calice caduc, petit, rouge, à 5 lobes ovales ; corolle nulle ; 5 étamines libres, opposées aux sépales, étalées, longuement saillantes ; stigmates sessile, en tète ; gousse pendante, de 12-20 cm. sur 2, flexueuse, épaisse, coriace, pulpeuse, à 12-16 graines ovoïdes, brunes.</Description>
+        <Localisation>Rochers maritimes de la Provence et de la Corse. Région méditerrenéenne de l'Europe, de l'Asie, de l'Afrique. </Localisation>
+    </FloreDeCoste>
+</Espèce>

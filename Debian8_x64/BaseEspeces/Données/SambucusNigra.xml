@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SambucusNigra</ID>
+    <Nom>Sambucus nigra L. </Nom>
+    <NomsVernaculaires>
+        <Français>Sureau noir</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sambucus</Genus>
+        <Species>nigra</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Digitée</Forme>
+            <NombreFolioles>5-7</NombreFolioles>
+            <Foliole>Ovale</Foliole>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/60241</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1647</NumeroTaxon>
+        <Description>Arbrisseau ou arbuste de 2 à 6 mètres, à rameaux ligneux, verruqueux-grisâtres, remplis d'une moelle blanche, les jeunes brièvement hispides ; </Description>
+        <Localisation>Bois, haies, ruisseaux, dans presque toute la France et en Corse. Europe ; Caucase et région pontique ; subspontané en Algérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Photograph>train/686.jpg</Photograph>
+        <Photograph>train/882.jpg</Photograph>
+        <Photograph>train/1394.jpg</Photograph>
+        <Photograph>train/1692.jpg</Photograph>
+        <Photograph>train/1759.jpg</Photograph>
+        <Scan>train/1874.jpg</Scan>
+        <Photograph>train/2116.jpg</Photograph>
+        <Photograph>train/2413.jpg</Photograph>
+        <Photograph>train/2810.jpg</Photograph>
+        <Photograph>train/3271.jpg</Photograph>
+        <Scan>train/3322.jpg</Scan>
+        <Scan>train/3325.jpg</Scan>
+        <Photograph>train/3840.jpg</Photograph>
+        <Photograph>train/4005.jpg</Photograph>
+        <Photograph>train/4563.jpg</Photograph>
+        <Scan>train/5442.jpg</Scan>
+        <Photograph>train/5599.jpg</Photograph>
+        <Photograph>train/6021.jpg</Photograph>
+        <Photograph>train/6133.jpg</Photograph>
+        <Photograph>train/6327.jpg</Photograph>
+        <Scan>train/6379.jpg</Scan>
+        <Photograph>train/6979.jpg</Photograph>
+        <Scan>train/7792.jpg</Scan>
+        <Photograph>train/8303.jpg</Photograph>
+        <Photograph>train/8587.jpg</Photograph>
+        <Photograph>train/8994.jpg</Photograph>
+        <Photograph>train/9040.jpg</Photograph>
+        <Photograph>train/9165.jpg</Photograph>
+        <Scan>train/9179.jpg</Scan>
+        <Photograph>train/9210.jpg</Photograph>
+        <Photograph>train/9357.jpg</Photograph>
+        <Scan>train/9412.jpg</Scan>
+        <Photograph>train/9839.jpg</Photograph>
+        <Scan>train/10392.jpg</Scan>
+        <Photograph>train/10407.jpg</Photograph>
+        <Photograph>train/10433.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AlnusIncana</ID>
+    <Nom>Alnus incana (L.) Moench</Nom>
+    <NomsVernaculaires>
+        <Français>Aulne blanc</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Alnus</Genus>
+        <Species>incana</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Courtement Acuminee</Sommet>
+            <Bord>Doublement Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/74948</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3321</NumeroTaxon>
+        <Description>Arbre ou arbrisseau à écorce lisse gris-argenté ; jeunes rameaux et bourgeons pubescents ; feuilles pétiolées, ovales-aiguès ou brièvement Acuminees, doublement et finement dentées en scie ou un peu lobées, vertes en dessus, pubescentes-blanchâtres ou roussâtres en dessous, à 10-15 paires de nervures secondaires ; 2-4 chatons mâles ; cônes ovoïdes, moyens, denses, subsessiles ; fruit pentagonal, à aile coriace, presque aussi large que la graine.</Description>
+        <Localisation>Bords des eaux, dans les montagnes du Jura et des Alpes ; souvent planté dans d'autres régions. Europe ; Asie tempérée ; Amérique boréale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

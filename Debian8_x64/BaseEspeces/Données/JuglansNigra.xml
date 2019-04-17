@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>JuglansNigra</ID>
+    <Nom>Juglans nigra L.</Nom>
+    <NomsVernaculaires>
+        <Français>Noyer noir</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Juglans</Genus>
+        <Species>nigra</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/36331</TelaBotanica>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/54.jpg</Pseudoscan>
+        <Pseudoscan>train/141.jpg</Pseudoscan>
+        <Pseudoscan>train/367.jpg</Pseudoscan>
+        <Photograph>train/485.jpg</Photograph>
+        <Scan>train/558.jpg</Scan>
+        <Pseudoscan>train/1105.jpg</Pseudoscan>
+        <Photograph>train/1799.jpg</Photograph>
+        <Scan>train/1815.jpg</Scan>
+        <Pseudoscan>train/2135.jpg</Pseudoscan>
+        <Scan>train/2268.jpg</Scan>
+        <Photograph>train/2269.jpg</Photograph>
+        <Scan>train/2369.jpg</Scan>
+        <Scan>train/2444.jpg</Scan>
+        <Pseudoscan>train/2500.jpg</Pseudoscan>
+        <Pseudoscan>train/2511.jpg</Pseudoscan>
+        <Scan>train/3555.jpg</Scan>
+        <Pseudoscan>train/3799.jpg</Pseudoscan>
+        <Photograph>train/4033.jpg</Photograph>
+        <Pseudoscan>train/4344.jpg</Pseudoscan>
+        <Photograph>train/4778.jpg</Photograph>
+        <Pseudoscan>train/4825.jpg</Pseudoscan>
+        <Pseudoscan>train/4947.jpg</Pseudoscan>
+        <Scan>train/5214.jpg</Scan>
+        <Scan>train/5785.jpg</Scan>
+        <Pseudoscan>train/5998.jpg</Pseudoscan>
+        <Photograph>train/6120.jpg</Photograph>
+        <Pseudoscan>train/6347.jpg</Pseudoscan>
+        <Pseudoscan>train/6921.jpg</Pseudoscan>
+        <Pseudoscan>train/7019.jpg</Pseudoscan>
+        <Scan>train/7036.jpg</Scan>
+        <Scan>train/7477.jpg</Scan>
+        <Pseudoscan>train/7864.jpg</Pseudoscan>
+        <Scan>train/8236.jpg</Scan>
+        <Scan>train/8281.jpg</Scan>
+        <Scan>train/8456.jpg</Scan>
+        <Pseudoscan>train/8732.jpg</Pseudoscan>
+        <Pseudoscan>train/9150.jpg</Pseudoscan>
+        <Pseudoscan>train/9480.jpg</Pseudoscan>
+        <Pseudoscan>train/9673.jpg</Pseudoscan>
+        <Pseudoscan>train/9831.jpg</Pseudoscan>
+        <Scan>train/9963.jpg</Scan>
+        <Pseudoscan>train/10032.jpg</Pseudoscan>
+        <Scan>train/10062.jpg</Scan>
+        <Scan>train/10491.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

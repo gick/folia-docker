@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>LoniceraXylosteum</ID>
+    <Nom>Lonicera xylosteum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Camérisier à balais</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Lonicera</Genus>
+        <Species>xylosteum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/39920</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1656</NumeroTaxon>
+        <Description>Sous-arbrisseau de 1-2 mètres, dressé, à jeunes rameaux pubescents ; feuilles toutes pétiolées, mollement pubescentes, surtout en dessous, ovales, aiguès ou Mucronees ; pédoncules axillaires, velus, égalant les fleurs ; fleurs géminées, d'un blanc jaunâtre, inodores ; bractées Lineaires, plus longues que l'ovaire ; corolle velue, à 2 lèvres, à tube très court, bossu à la base ; </Description>
+        <Localisation>Haies et bois, surtout dans l'Est et le Centre ; rare dans l'Ouest et la région méditerranéenne. - Presque toute l'Europe ; Caucase et région pontique ; Sibérie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

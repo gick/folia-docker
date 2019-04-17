@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>UlmusLaevis</ID>
+    <Nom>Ulmus laevis Pall.</Nom>
+    <NomsVernaculaires>
+        <Français>Orme pédonculé</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ulmus</Genus>
+        <Species>laevis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/70292</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3261</NumeroTaxon>
+        <Description>Arbre élevé, à cime irrégulière, étalée, diffuse, à tige relevée de côtes saillantes, à écorce d'abord lisse puis gerçurée ; feuilles peu fermes, ovales, brièvement Acuminees, mollement pubescentes en dessous ; fleurs longuement pédonculées, pendantes, à pédoncules filiformes, longs de 8-13 mm. ; 5-8 étamines ; samare assez petite (10-15 mm. de long), elliptique-orbiculaire, attenuée aux 2 bouts, à aile ferme, plane, velue-ciliée aux bords à graine située vers son milieu.</Description>
+        <Localisation>Terrains frais et humides des plaines et des vallées, dans le Nord et le Centre. Souvent planté. Europe, surtout centrale ; Caucase. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/4606.jpg</Scan>
+        <Scan>train/7812.jpg</Scan>
+        <Scan>train/9645.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

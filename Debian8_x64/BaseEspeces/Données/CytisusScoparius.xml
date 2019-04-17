@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CytisusScoparius</ID>
+    <Nom>Cytisus scoparius (L.) Link</Nom>
+    <NomsVernaculaires>
+        <Français>Genêt à balais</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Cytisus</Genus>
+        <Species>scoparius</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/21055</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+</Espèce>

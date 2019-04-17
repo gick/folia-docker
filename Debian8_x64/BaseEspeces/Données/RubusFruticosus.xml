@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RubusFruticosus</ID>
+    <Nom>Rubus fruticosus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Ronce des bois</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rubus</Genus>
+        <Species>fruticosus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/58089</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1156</NumeroTaxon>
+        <Description>Turion anguleux, plan sur les faces jusque vers le milieu, garni d'aiguillons vulnérants à base dilatée ; feuilles vertes, garnies de poils épars sur les 2 faces, à 5 folioles souvent plissées, finement dentées, la terminale largement ovale en cœur ; inflorescence médiocre, subcorymbiforme ; sépales verts sur le dos, étalés, concaves ; pétales roses ou presque blancs, étamines plus courtes que les styles ou les égalant à peine ; réceptacle hérissé.</Description>
+        <Localisation>Varie à folioles plus étroites, la terminale oblongue ou rhomboïdale, inflorescence en corymbe (</Localisation>
+    </FloreDeCoste>
+</Espèce>

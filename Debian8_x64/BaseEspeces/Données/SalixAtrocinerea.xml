@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixAtrocinerea</ID>
+    <Nom>Salix atrocinerea Brot.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule roux</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>atrocinerea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59317</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+</Espèce>

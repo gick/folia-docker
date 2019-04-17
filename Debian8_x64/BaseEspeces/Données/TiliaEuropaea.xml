@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>TiliaEuropaea</ID>
+    <Nom>Tilia x europaea L.</Nom>
+    <NomsVernaculaires>
+        <Français>Tilleul commun</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Tilia</Genus>
+        <Species>europaea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/77122</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>610</NumeroTaxon>
+        <Description>Feuilles assez grandes, vertes-concolores sur les deux faces, plus claires et glabrescentes en dessous, avec les aisselles garnies de poils roussâtres ; bourgeons glabres, revètus de deux écailles apparentes ; fleurs assez grandes, blanchâtres, odorantes, nombreuses ; fruits assez gros, elliptique, velu, à parois épaisses et résistantes, à 4 côtes saillantes.</Description>
+        <Localisation>Presque toute l'Europe, de la Scandinavie à la Grèce et au Caucase. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/3505.jpg</Scan>
+        <Scan>train/7321.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

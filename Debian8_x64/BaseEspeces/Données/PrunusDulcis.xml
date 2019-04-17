@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusDulcis</ID>
+    <Nom>Prunus dulcis (Mill.) D.A.Webb</Nom>
+    <NomsVernaculaires>
+        <Français>Amandier amer</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>dulcis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Elliptique</Forme>
+            <Forme>Lanceolee</Forme>
+            <Bord>Obtusément Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53514</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>1083</NumeroTaxon>
+        <Description>Arbre de 4 à 12 mètres, non épineux, à rameaux glabres et d'un vert clair ; feuilles à pétiole glanduleux, pliées en long dans leur jeunesse, ellipliques-Lanceolees, obtusément dentées, glabres, luisantes en dessus ; stipules caduques ; fleurs blanches ou rosées, naissant avant les feuilles, solitaires ou géminées, subsessiles ; calice en cloche, à 5 lobes, caduc ; 5 pétales ; 15-30 étamines ; 1 style ; ovaire libre ; drupe oblongue-comprimée, pubescente-veloutée, coriace, sèche et verte à la maturité, s'ouvrant en long ; noyau oblong-pointu, sillonné sur les faces de fissures étroites, à 1-2 amandes douces ou amères.</Description>
+        <Localisation>Cultivé et souvent subspontané dans tout le Midi et dans la région de la vigne. Asie occidentale jusqu'en Perse ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/43.jpg</Pseudoscan>
+        <Pseudoscan>train/2265.jpg</Pseudoscan>
+        <Scan>train/2416.jpg</Scan>
+        <Scan>train/2647.jpg</Scan>
+        <Scan>train/2805.jpg</Scan>
+        <Scan>train/5414.jpg</Scan>
+        <Scan>train/5927.jpg</Scan>
+        <Pseudoscan>train/6083.jpg</Pseudoscan>
+        <Pseudoscan>train/6311.jpg</Pseudoscan>
+        <Scan>train/6626.jpg</Scan>
+        <Pseudoscan>train/6700.jpg</Pseudoscan>
+        <Scan>train/7553.jpg</Scan>
+        <Pseudoscan>train/8740.jpg</Pseudoscan>
+        <Scan>train/9725.jpg</Scan>
+        <Scan>train/9954.jpg</Scan>
+        <Scan>train/9955.jpg</Scan>
+        <Pseudoscan>train/10223.jpg</Pseudoscan>
+        <Pseudoscan>train/10454.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

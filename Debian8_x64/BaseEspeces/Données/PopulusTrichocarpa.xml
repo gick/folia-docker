@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PopulusTrichocarpa</ID>
+    <Nom>Populus trichocarpa Torr.</Nom>
+    <NomsVernaculaires>
+        <Français>Peuplier de l'ouest</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Populus</Genus>
+        <Species>trichocarpa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/52060</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/841.jpg</Scan>
+        <Scan>train/5724.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

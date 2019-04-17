@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>UlexEuropaeus</ID>
+    <Nom>Ulex europaeus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Ajonc d'Europe</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ulex</Genus>
+        <Species>europaeus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/70199</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>747</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 2 mètres, d'un vert cendré, très rameux, dressé, à rameaux épais, velus, à épines robustes, très vulnérantes ; feuilles Lanceolees-Lineaires ; fleurs grandes, de 15 mm. environ ; bractéoles calicinales courtement ovales, plus larges que le pédicelle ; calice très velu, à poils étalés-dressés ; corolle d'un jaune vif, à étendard non veiné ; ailes dépassant un peu le sommet de la carène droite ; gousse ovale, large de 6-7 mm., très velue, plus longue que le calice, à 4-6 graines échancrées.</Description>
+        <Localisation>Landes et lieux stériles siliceux, surtout dans l'Ouest et le Centre ; rare dans le Midi. Europe occidentale, du Danemark au Portugal, jusqu'à la Suisse et l'Italie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

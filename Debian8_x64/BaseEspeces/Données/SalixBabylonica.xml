@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixBabylonica</ID>
+    <Nom>Salix babylonica L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule pleureur</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>babylonica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Longuement Acuminee</Sommet>
+            <Bord>Denticulee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59332</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3307</NumeroTaxon>
+        <Description>Arbuste de 5-10 mètres, à rameaux grèles, très effilés, tous longuement pendants, les jeunes et les jeunes feuilles souvent pubescents ; feuilles courtement pétiolées, étroitement Lanceolees, Longuement Acuminees, denticulées, glabres, pâles ou blanchâtres en dessous ; chatons femelles contemporains, petits, grèles, cylindriques, souvent arqués, ordinairement dépassés par les feuilles de leur pédoncule ; ecailles glabrescentes, jaunâtres, caduques ; style court ; capsule petite, glabre, sessile, à écaille dépassant sa base.</Description>
+        <Localisation>Planté dans les parcs et les cimetières, en France et en Europe, o l'on ne trouve que la plante femelle. Caucase, Perse, Chine, Japon. </Localisation>
+    </FloreDeCoste>
+</Espèce>

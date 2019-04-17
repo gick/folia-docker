@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RubusUlmifolius</ID>
+    <Nom>Rubus ulmifolius Schott</Nom>
+    <NomsVernaculaires>
+        <Français>Ronce à feuilles d'orme</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rubus</Genus>
+        <Species>ulmifolius</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/58514</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1174</NumeroTaxon>
+        <Description>Turion arqué-procombant, canaliculé sur les faces, glauque pruineux, squamuleux, armé d'aiguillons robustes, à base dilatée ; feuilles convexes, vertes et glabrescentes en dessus, blanches-tomenteuses en dessous, à 5 folioles peu profondément dentées, la terminale obovale, brièvement Acuminee ; rameau florifère anguleux ; inflorescence pyramidale, à pédoncules très étalés, garnis d'aiguillons falciformes ; sépales tomenteux, réfléchis ; pétales d'un rose vif, suborbiculaires, chiffonnés ; étamines égalant ou dépassant peu les styles roses. Espèce très polymorphe.</Description>
+        <Localisation>Lieux exposés en pleine lumière : le midi, l'ouest, le centre ; nul dans le nord-est ; Corse. Région méditerranéenne de l'Europe, de l'Asie, de l'Afrique.</Localisation>
+    </FloreDeCoste>
+</Espèce>

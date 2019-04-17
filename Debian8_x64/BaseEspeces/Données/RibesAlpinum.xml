@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RibesAlpinum</ID>
+    <Nom>Ribes alpinum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Groseiller des Alpes</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ribes</Genus>
+        <Species>alpinum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/56110</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1401</NumeroTaxon>
+        <Description>Sous-arbrisseau de 1 m. à 1 m. 50, non épineux, ordinairement dioïque ; feuilles petites, à 3-5 lobes dentés, presque glabres ; fleurs d'un vert jaunâtre, en grappes toujours dressées, les mâles multiflores, les femelles à 2-5 fleurs plus petites ; bractées glabres ou ciliées, glanduleuses, concaves, Lanceolees-aiguès, égalant ou dépassant les fleurs ; calice en cloche, glabre, à sépales ovales-obtus, étalés ou un peu réflèchis ; pétales spatulés, 4-5 fois plus courts que les sépales ; baies dressées, petites, rouges, glabres, fades.</Description>
+        <Localisation>Bois et rochers des montagnes de l'Est, du Midi et du Centre jusqu'a l'Indre et le Cher ; nul dans l'Ouest et la réunion méditerrancenne. Europe, surtout centrale et boréale ; Caucase, Sibérie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

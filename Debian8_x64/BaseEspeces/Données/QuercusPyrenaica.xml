@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusPyrenaica</ID>
+    <Nom>Quercus pyrenaica Willd.</Nom>
+    <NomsVernaculaires>
+        <Français>Chêne Tauzin</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>pyrenaica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54540</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3275</NumeroTaxon>
+        <Description>Arbre peu élevé, souvent tortueux, à racine traçante et très drageonnante ; jeunes pousses blanc-argenté lavé de rose ; feuilles courtement pétiolées, fermes, caduques, obovales-oblongues, Sinuees-lobées ou pennatifides, d'abord tomenteuses-blanchâtres, à la fin vertes et pubescentes en dessus, mollement veloutées en dessous ; chatons mâles assez denses ; fruits sessiles ou pédonculés, sur les ramules feuillés de l'année ; cupule hémisphérique, grise-tomenteuse, à écailles lâchemeut appliquées et un peu ouvertes au sommet.</Description>
+        <Localisation>Landes siliceuses, dans tout l'Ouest, de la Bretagne aux Pyrénées. Espagne et Portugal. </Localisation>
+    </FloreDeCoste>
+</Espèce>

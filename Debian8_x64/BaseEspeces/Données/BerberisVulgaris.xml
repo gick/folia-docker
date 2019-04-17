@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>BerberisVulgaris</ID>
+    <Nom>Berberis vulgaris L.</Nom>
+    <NomsVernaculaires>
+        <Français>Epine vinette</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Berberis</Genus>
+        <Species>vulgaris</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/9456</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>117</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 3 mètres, à rameaux dressés, cannelés, grisâtres, glabres ; feuilles obovales-oblongues, atténuées en pétiole, dentelées et munies au sommet et au bord de cils raides ; epines presque de moitié plus courtes que les feuilles ; fleurs en grappes plus longues que les feuilles ; baies d'un rouge vif à la maturitè, à suc acide.</Description>
+        <Localisation>Haies, bois et coteaux, dans presque toute la France. Presque toute l'Europe ; Asie occidentale ; Inde. </Localisation>
+    </FloreDeCoste>
+</Espèce>

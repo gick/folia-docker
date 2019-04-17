@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AcerSaccharinum</ID>
+    <Nom>Acer saccharinum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Erable argenté</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Acer</Genus>
+        <Species>saccharinum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/219</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/269.jpg</Scan>
+        <Scan>train/817.jpg</Scan>
+        <Scan>train/3140.jpg</Scan>
+        <Scan>train/3349.jpg</Scan>
+        <Scan>train/3921.jpg</Scan>
+        <Scan>train/4007.jpg</Scan>
+        <Scan>train/4016.jpg</Scan>
+        <Scan>train/4200.jpg</Scan>
+        <Scan>train/7352.jpg</Scan>
+        <Scan>train/7560.jpg</Scan>
+        <Scan>train/7621.jpg</Scan>
+        <Scan>train/8227.jpg</Scan>
+        <Scan>train/8561.jpg</Scan>
+        <Scan>train/8874.jpg</Scan>
+        <Scan>train/9036.jpg</Scan>
+        <Scan>train/9626.jpg</Scan>
+        <Scan>train/9768.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

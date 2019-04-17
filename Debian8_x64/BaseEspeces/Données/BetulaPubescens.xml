@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>BetulaPubescens</ID>
+    <Nom>Betula pubescens Ehrh.</Nom>
+    <NomsVernaculaires>
+        <Français>Bouleau pubescent</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Betula</Genus>
+        <Species>pubescens</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Rhomboidale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Courtement Acuminee</Sommet>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/82088</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Scan>train/676.jpg</Scan>
+        <Scan>train/1701.jpg</Scan>
+        <Scan>train/6228.jpg</Scan>
+        <Scan>train/7367.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

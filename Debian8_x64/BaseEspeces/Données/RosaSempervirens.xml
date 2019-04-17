@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RosaSempervirens</ID>
+    <Nom>Rosa sempervirens L.</Nom>
+    <NomsVernaculaires>
+        <Français>Rosier toujours vert</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rosa</Genus>
+        <Species>sempervirens</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/57520</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1208</NumeroTaxon>
+        <Description>Arbrisseau à tiges sarmenteuses, décombantes, allongées ; aiguillons épars, crochus ; feuilles persistantes, à 5 folioles coriaces, glabres, luisantes, ovales-Acuminees, à dents simples, superficielles, conniventes ; stipules étroites, à oreillettes un peu divergentes, bractées primaires étalées ou réfléchies après la poraison ; fleurs blanches, le plus souvent en corymbes ; pédicelles longs, glanduleux ; boutons courts, ovoïdes, contractés au sommet ; sépales ovales-aigus, non acuminés, presque entiers, réfléchis, caducs ; colonne stylaire velue, égalant les étamines ; fruit petit.</Description>
+        <Localisation>Haies et coteaux secs du Midi et de l'Ouest jusqu'à la Loire-lnférieure, Corse. Europe méridionale, du Portugal à la Turquie ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

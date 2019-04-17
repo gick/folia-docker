@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusDomestica</ID>
+    <Nom>Prunus domestica L.</Nom>
+    <NomsVernaculaires>
+        <Français>Prunier domestique</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>domestica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Forme>Obovale</Forme>
+            <Sommet>Obtuse</Sommet>
+            <Bord>Crenelee</Bord>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53498</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>1087</NumeroTaxon>
+        <Description>Arbre ou arbuste de 3 à 7 mètres, non épineux, à jeunes rameaux glabres ; feuilles adultes obovales ou oblongues, crénelées-dentées, glabres ou légerement pubescentes en dessous ; stipules pubescentes ; fleurs d'un blanc un peu verdâtre, grandes, géminées, à pédoncules pubescents ; calice pubescent ou velu en dedans et sur le limbe ; drupe grosse (2-3 cm. de diam.), oblongue, penchée, rougeâtre ou violacée, à saveur douce ; noyau allongé, rugueux sur Ies faces.</Description>
+        <Localisation>Cultivé et subspontané dans toute la France, l'Europe I'Afrique septentrionale. Spontané en Asie. dans la région pontique et la Perse. </Localisation>
+    </FloreDeCoste>
+</Espèce>

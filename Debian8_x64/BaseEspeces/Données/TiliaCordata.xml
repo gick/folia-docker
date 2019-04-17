@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>TiliaCordata</ID>
+    <Nom>Tilia cordata Mill. </Nom>
+    <NomsVernaculaires>
+        <Français>Tilleul des bois</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Tilia</Genus>
+        <Species>cordata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Cordée</Forme>
+            <Forme>Suborbiculaire</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>Obliquement En Coeur</Base>
+            <Bord>Dentee en Scie</Bord>
+            <Taille>Petite</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/68299</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>611</NumeroTaxon>
+        <Description>Feuilles petites, suborbiculaires, vertes et glabres en dessus, glauques et glabres en dessous, avec les aisselles garnies de poils roussâtres ; bourgeons glabres, à 2 écailles apparentes, la deuxième complètement embrassante ; fleurs d'un blanc sale, petites, à odeur faible, 5-10 par corymbe ; stigmates étalés ; fruit petit, globuleux, tomenteux, à parois minces et fragiles, à côtes peu ou point saillantes.</Description>
+        <Localisation>Bois, dans presque toute la France et en Corse. Souvent planté. Toute l'Europe, excepté l'extrème Nord ; Sibérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/995.jpg</Scan>
+        <Scan>train/1288.jpg</Scan>
+        <Scan>train/2044.jpg</Scan>
+        <Scan>train/2093.jpg</Scan>
+        <Scan>train/2588.jpg</Scan>
+        <Scan>train/2848.jpg</Scan>
+        <Scan>train/3674.jpg</Scan>
+        <Scan>train/4490.jpg</Scan>
+        <Scan>train/4976.jpg</Scan>
+        <Scan>train/5369.jpg</Scan>
+        <Scan>train/5405.jpg</Scan>
+        <Scan>train/5706.jpg</Scan>
+        <Scan>train/5712.jpg</Scan>
+        <Scan>train/5740.jpg</Scan>
+        <Scan>train/5915.jpg</Scan>
+        <Scan>train/6285.jpg</Scan>
+        <Scan>train/6340.jpg</Scan>
+        <Scan>train/7291.jpg</Scan>
+        <Scan>train/7589.jpg</Scan>
+        <Scan>train/7868.jpg</Scan>
+        <Scan>train/8034.jpg</Scan>
+        <Scan>train/8259.jpg</Scan>
+        <Scan>train/9119.jpg</Scan>
+        <Scan>train/9251.jpg</Scan>
+        <Scan>train/9386.jpg</Scan>
+        <Photograph>train/9848.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

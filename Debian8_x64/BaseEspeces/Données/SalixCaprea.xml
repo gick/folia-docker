@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixCaprea</ID>
+    <Nom>Salix caprea L. </Nom>
+    <NomsVernaculaires>
+        <Français>Saule marsault</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>caprea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Forme>Obovale</Forme>
+            <Forme>Ovale</Forme>
+            <Sommet>Obtuse</Sommet>
+            <Sommet>Recourbee</Sommet>
+            <Bord>Sinuee</Bord>
+            <Bord>Entiere</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59380</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3299</NumeroTaxon>
+        <Description>Arbrisseau ou arbuste de 3-10 mètres, à rameaux étalés-dressés, arrondis, les jeunes et les bourgeons bientôt glabres ; bois nu trés lisse ; feuilles grandes, pétiolées, ovales, à pointe Recourbee, un peu ondulées, vertes et luisantes en dessus, mollement blanches-tomenteuses en dessous ; chatons précoces, gros, oblongs ou cylindriques, denses, subsessiles, à écailles velues, noirâtres au sommet, style court ; capsule tomenteuse, à pédicelle 3-4 fois plus long que la glande.</Description>
+        <Localisation>Lieux frais ou humides, dans presque toutela France ; nul dans la plaine méditerranéenne. Europe surtout centrale ; Asie centrale et boréale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/3.jpg</Scan>
+        <Scan>train/64.jpg</Scan>
+        <Scan>train/1130.jpg</Scan>
+        <Scan>train/1255.jpg</Scan>
+        <Scan>train/2029.jpg</Scan>
+        <Scan>train/2316.jpg</Scan>
+        <Scan>train/2367.jpg</Scan>
+        <Scan>train/2426.jpg</Scan>
+        <Scan>train/3064.jpg</Scan>
+        <Scan>train/3476.jpg</Scan>
+        <Scan>train/4053.jpg</Scan>
+        <Scan>train/4094.jpg</Scan>
+        <Scan>train/4255.jpg</Scan>
+        <Scan>train/4324.jpg</Scan>
+        <Scan>train/4550.jpg</Scan>
+        <Scan>train/5011.jpg</Scan>
+        <Scan>train/5232.jpg</Scan>
+        <Scan>train/5293.jpg</Scan>
+        <Scan>train/5480.jpg</Scan>
+        <Scan>train/5697.jpg</Scan>
+        <Scan>train/6136.jpg</Scan>
+        <Scan>train/6424.jpg</Scan>
+        <Scan>train/8080.jpg</Scan>
+        <Scan>train/8168.jpg</Scan>
+        <Scan>train/8178.jpg</Scan>
+        <Scan>train/8854.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

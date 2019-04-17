@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>DaphneMezereum</ID>
+    <Nom>Daphne mezereum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Bois-gentil</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Daphne</Genus>
+        <Species>mezereum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/21595</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3171</NumeroTaxon>
+        <Description>Arbrisseau de 60 cm. à 1 mètre et plus, à tiges dressées, très souples, grisâtres ; rameaux pubescents, feuillés en rosette au sommet ; feuilles glabres ou ciliées, minces, caduques, longues de 4-10 cm. sur 1-3, oblongues-Lanceolees, attenuées en court pétiole, nervées, naissant avec ou après les fleurs ; fleurs roses, odorantes, sessiles, disposées 2-4 en petits faisceaux latéraux, écailleux à la base, non feuillés ; périanthe velu, à lobes ovales égalant presque le tube ; baie promptement nue, ovoïde, rouge.</Description>
+        <Localisation>Bois montueux, dans une grande partie de la France ; nul dans l'Ouest etla région méditerranéenne. Europe ; Caucase, Sibérie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

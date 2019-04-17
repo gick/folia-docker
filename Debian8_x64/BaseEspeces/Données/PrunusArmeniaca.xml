@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusArmeniaca</ID>
+    <Nom>Prunus armeniaca L.</Nom>
+    <NomsVernaculaires>
+        <Français>Abricotier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>armeniaca</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Doublement Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53413</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>1085</NumeroTaxon>
+        <Description>Arbuste de 3-6 mètres, non épineux, à rameaux étalés ou ascendants ; feuilles à pétiole glanduleux, enroulées dans leur jeunesse, ovales en coeur, Acuminees, doublement dentées, glabres, luisantes en dessus ; stipules caduques ; fleurs blanches ou lavées de rose, naissant avant les feuilles, solitaires ou géminées, subsessiles ; calice en cloche, à 5 lobes, caduc ; </Description>
+        <Localisation>Cultivé dans presque toute la France, I'Europe, l'Afrique septentrionale. Spontané dans tout le Caucase et dans les plovinces transcaucasiennes. </Localisation>
+    </FloreDeCoste>
+</Espèce>

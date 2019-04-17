@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AlnusCordata</ID>
+    <Nom>Alnus cordata (Loisel.) Duby</Nom>
+    <NomsVernaculaires>
+        <Français>Aulne de Corse</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Alnus</Genus>
+        <Species>cordata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Suborbiculaire</Forme>
+            <Sommet>Obtuse</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Dentee en Scie</Bord>
+            <Taille>Large</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/74947</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3319</NumeroTaxon>
+        <Description>Arbre de taille moyenne, à écorce lisse ou peu rugueuse ; bourgeons glabres, aigus ; feuilles longuement pétiolées, largement ovales ou suborbiculaires en coeur, obtuses ou brièvement Acuminees, régulièrement et finement dentées en scie, vertes et glabres sur les faces, à nervures secondaires rameuses ; 3-6 chatons mâles ; cônes 1-2, très gros (20-25 mm. de long sur 12-15 de large) ; fruit suborbiculaire, d'aile mince, moins large que la graine.</Description>
+        <Localisation>Bois humides, dans la région haute et moyenne de la Corse. Italie méridionale ; Caucase, Asie Mineure, Perse. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/777.jpg</Scan>
+        <Scan>train/1384.jpg</Scan>
+        <Scan>train/1449.jpg</Scan>
+        <Scan>train/1702.jpg</Scan>
+        <Scan>train/2751.jpg</Scan>
+        <Scan>train/2780.jpg</Scan>
+        <Scan>train/2821.jpg</Scan>
+        <Scan>train/2919.jpg</Scan>
+        <Scan>train/2933.jpg</Scan>
+        <Scan>train/3220.jpg</Scan>
+        <Scan>train/3263.jpg</Scan>
+        <Scan>train/3497.jpg</Scan>
+        <Scan>train/3864.jpg</Scan>
+        <Scan>train/4237.jpg</Scan>
+        <Scan>train/4454.jpg</Scan>
+        <Scan>train/4849.jpg</Scan>
+        <Scan>train/4991.jpg</Scan>
+        <Scan>train/5421.jpg</Scan>
+        <Scan>train/5662.jpg</Scan>
+        <Scan>train/5813.jpg</Scan>
+        <Scan>train/6138.jpg</Scan>
+        <Scan>train/6278.jpg</Scan>
+        <Scan>train/6319.jpg</Scan>
+        <Scan>train/6404.jpg</Scan>
+        <Scan>train/6580.jpg</Scan>
+        <Scan>train/6961.jpg</Scan>
+        <Scan>train/7396.jpg</Scan>
+        <Scan>train/7741.jpg</Scan>
+        <Scan>train/7862.jpg</Scan>
+        <Scan>train/7921.jpg</Scan>
+        <Scan>train/8304.jpg</Scan>
+        <Scan>train/8932.jpg</Scan>
+        <Scan>train/9641.jpg</Scan>
+        <Scan>train/9681.jpg</Scan>
+        <Scan>train/9895.jpg</Scan>
+        <Scan>train/9926.jpg</Scan>
+        <Scan>train/9934.jpg</Scan>
+        <Scan>train/10022.jpg</Scan>
+        <Scan>train/10157.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

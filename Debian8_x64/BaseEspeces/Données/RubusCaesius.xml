@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RubusCaesius</ID>
+    <Nom>Rubus caesius L.</Nom>
+    <NomsVernaculaires>
+        <Français>Ronce bleuâtre</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rubus</Genus>
+        <Species>caesius</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/57975</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1180</NumeroTaxon>
+        <Description>Turion faible, couché, cylindrique, glabre ou pubescent, glaucescent, muni de glandes et de petits aiguillons souvent courbés ; feuilles velues sur les 2 faces, vertes ou grisâtres en dessous, à 3 folioles grossièrement dentées, les inférieures souvent lobées, la terminale ovale en cœur ou trilobée ; inflorescence petite, en corymbe, à pédoncules grèles, garnis de glandes fines et de petits aiguillons ; sépales verts, redressés, longuement acuminés ; pétales blancs, larges ; étamines égalant les styles ; drupéoles 2-5, grosses, bleuâtres ou glauques, à saveur acide. Espèce très polymorphe, s'hybridant facilement avec la plupart des autres espèces du genre.</Description>
+        <Localisation>Terrains frais, surtout calcaires, dans toute la France. Toute l'Europe et l'Asie septentrionale.</Localisation>
+    </FloreDeCoste>
+</Espèce>

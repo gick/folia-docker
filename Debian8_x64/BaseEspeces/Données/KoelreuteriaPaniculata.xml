@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>KoelreuteriaPaniculata</ID>
+    <Nom>Koelreuteria paniculata Laxm.</Nom>
+    <NomsVernaculaires>
+        <Français>Savonnier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Koelreuteria</Genus>
+        <Species>paniculata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/78088</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/1131.jpg</Scan>
+        <Scan>train/1777.jpg</Scan>
+        <Scan>train/5060.jpg</Scan>
+        <Scan>train/9964.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

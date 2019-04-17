@@ -1,0 +1,11 @@
+0 Echancree
+
+1 Tronquee
+
+2 Arrondie
+
+3 Obtuse
+
+4 Aigue
+
+5 Acuminee

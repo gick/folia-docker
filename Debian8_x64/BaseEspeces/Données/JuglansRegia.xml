@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>JuglansRegia</ID>
+    <Nom>Juglans regia L.</Nom>
+    <NomsVernaculaires>
+        <Français>Noyer</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Juglans</Genus>
+        <Species>regia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Imparipennee</Forme>
+            <NombreFolioles>5-9</NombreFolioles>
+            <Foliole>Ovale</Foliole>
+            <Sommet>Aigue</Sommet>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/36333</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3267</NumeroTaxon>
+        <Description>Arbre élevé, à écorce lisse et blanchâtre ; feuilles caduques, alternes, pétiolées, Imparipennees, à 5-9 folioles ovales-aiguès, entières, glabres, aromatiques, sans stipules ; fleurs verdâtres, monoïques, les mâles en chatons allongés, cylindriques, pendants, les femelles 1-4 dans un petit bourgeon à 4 écailles caduques ; périanthe accompagné d'une écaille bractéale et divisé en 5-6 lobes inégaux ; 14-36 étamines, à filets courts et anthères s'ouvrant en dehors, 2 larges stigmates courbés en dehors ; ovaire adhérent ; fruit drupacé, arrondi, vert, formé d'un brou charnu se déchirant irrégulièrement et d'une noix à 2 valves ligneuses ridées renfermant une amande à 4 lobes sinués-lobulés.</Description>
+        <Localisation>Cultivé pour ses fruits et son bois, très estimé en ébénisterie. Originaire de l'Europe orientale et de l'Asie tempérée. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/515.jpg</Scan>
+        <Scan>train/607.jpg</Scan>
+        <Scan>train/633.jpg</Scan>
+        <Scan>train/1278.jpg</Scan>
+        <Scan>train/1903.jpg</Scan>
+        <Scan>train/1929.jpg</Scan>
+        <Scan>train/2181.jpg</Scan>
+        <Scan>train/2193.jpg</Scan>
+        <Scan>train/2319.jpg</Scan>
+        <Scan>train/2399.jpg</Scan>
+        <Scan>train/2501.jpg</Scan>
+        <Photograph>train/3252.jpg</Photograph>
+        <Scan>train/3903.jpg</Scan>
+        <Scan>train/4146.jpg</Scan>
+        <Scan>train/4788.jpg</Scan>
+        <Scan>train/5080.jpg</Scan>
+        <Scan>train/6030.jpg</Scan>
+        <Scan>train/6542.jpg</Scan>
+        <Scan>train/7247.jpg</Scan>
+        <Scan>train/7338.jpg</Scan>
+        <Scan>train/7439.jpg</Scan>
+        <Scan>train/7473.jpg</Scan>
+        <Photograph>train/7595.jpg</Photograph>
+        <Scan>train/7641.jpg</Scan>
+        <Scan>train/7818.jpg</Scan>
+        <Scan>train/7918.jpg</Scan>
+        <Scan>train/8110.jpg</Scan>
+        <Scan>train/8344.jpg</Scan>
+        <Scan>train/8449.jpg</Scan>
+        <Scan>train/8750.jpg</Scan>
+        <Scan>train/8916.jpg</Scan>
+        <Scan>train/8979.jpg</Scan>
+        <Scan>train/9095.jpg</Scan>
+        <Scan>train/9133.jpg</Scan>
+        <Scan>train/9231.jpg</Scan>
+        <Scan>train/9564.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

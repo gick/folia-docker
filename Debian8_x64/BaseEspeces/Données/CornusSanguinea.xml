@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CornusSanguinea</ID>
+    <Nom>Cornus sanguinea L.</Nom>
+    <NomsVernaculaires>
+        <Français>Cornouiller sanguin</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Cornus</Genus>
+        <Species>sanguinea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Courtement Acuminee</Sommet>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75064</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1643</NumeroTaxon>
+        <Description>Arbrisseau de 1-3 mètres, à jeunes rameaux rougeâtres ; feuilles ovales-elliptiques, brièvement Acuminees, courtement pétiolées, molles, un peu pâles et pubérulentes en dessous ; fleurs blanches, en corymbes rameux, assez longuement pédonculés, terminaux, non involucrés, paraissant après les feuilles ; pétales oblongs-lanéolés, pubescents en dehors, très étalés ; drupe petite (5 mm. de diam.), globuleuse, couronnée par le limbe du calice, amère et noire à la maturité.</Description>
+        <Localisation>Bois et haies, dans toute la France et en Corse. Europe ; Sibérie, Altaï, Himalaya, Japon. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/254.jpg</Scan>
+        <Scan>train/272.jpg</Scan>
+        <Scan>train/484.jpg</Scan>
+        <Scan>train/930.jpg</Scan>
+        <Scan>train/1049.jpg</Scan>
+        <Pseudoscan>train/1138.jpg</Pseudoscan>
+        <Scan>train/1732.jpg</Scan>
+        <Scan>train/1896.jpg</Scan>
+        <Pseudoscan>train/2126.jpg</Pseudoscan>
+        <Scan>train/2885.jpg</Scan>
+        <Scan>train/2907.jpg</Scan>
+        <Scan>train/2917.jpg</Scan>
+        <Scan>train/3018.jpg</Scan>
+        <Pseudoscan>train/3176.jpg</Pseudoscan>
+        <Scan>train/3229.jpg</Scan>
+        <Pseudoscan>train/3714.jpg</Pseudoscan>
+        <Scan>train/3841.jpg</Scan>
+        <Scan>train/4359.jpg</Scan>
+        <Scan>train/4388.jpg</Scan>
+        <Photograph>train/4623.jpg</Photograph>
+        <Scan>train/4855.jpg</Scan>
+        <Pseudoscan>train/4877.jpg</Pseudoscan>
+        <Scan>train/4941.jpg</Scan>
+        <Pseudoscan>train/5315.jpg</Pseudoscan>
+        <Pseudoscan>train/5333.jpg</Pseudoscan>
+        <Scan>train/5439.jpg</Scan>
+        <Scan>train/5730.jpg</Scan>
+        <Scan>train/5731.jpg</Scan>
+        <Pseudoscan>train/6681.jpg</Pseudoscan>
+        <Scan>train/6780.jpg</Scan>
+        <Pseudoscan>train/7043.jpg</Pseudoscan>
+        <Scan>train/7301.jpg</Scan>
+        <Scan>train/7711.jpg</Scan>
+        <Scan>train/8301.jpg</Scan>
+        <Pseudoscan>train/8929.jpg</Pseudoscan>
+        <Pseudoscan>train/9474.jpg</Pseudoscan>
+        <Scan>train/9869.jpg</Scan>
+        <Photograph>train/10134.jpg</Photograph>
+        <Scan>train/10263.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

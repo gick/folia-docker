@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RubusIdaeus</ID>
+    <Nom>Rubus idaeus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Framboisier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rubus</Genus>
+        <Species>idaeus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/58196</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1152</NumeroTaxon>
+        <Description>Turion lignifié, dressé, cylindrique, glaucescent, à aiguillons rougeâtres, subulés, fins ; feuilles Imparipennees, à 3-7 folioles blanches-tomenteuses en dessous ; stipules filiformes adhérant au pétiole ; rameaux florifères naissant du turion bisannuel, courts ; inflorescence multiflore ; pédoncules souvent arqués, pendants ; sépales très étalés ou réfléchis ; pétales blancs, petits, lancéolés ; jeunes carpelles gris-tomenteux ; fruit ovale ou subglobuleux, se détachant du réceptacle conique à drupéoles nombreuses, petites, tomenteuses, rouges à la maturité.</Description>
+        <Localisation>Bois et lieux rocheux des montagnes, et dans les plaines du nord de la France ; nul dans la région méditerranéenne. Tout l'hémisphère boréal, dans la région des forèts.</Localisation>
+    </FloreDeCoste>
+</Espèce>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusLaurocerasus</ID>
+    <Nom>Prunus laurocerasus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Laurier-cerise</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>laurocerasus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Forme>Oblongue</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Dentee</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53544</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1096</NumeroTaxon>
+        <Description>Arbuste de 3-6 mètres, toujours vert ; feuilles grandes, persistantes, très coriaces, d'un vert sombre, glabres, luisantes, oblongues-Lanceolees, bordées de dents écartées, offrant en dessus, de chaque côté et vers la base du limbe, 2-6 glandes brunes contiguès à la nervure médiane, exhalant par le froissement une forte odeur d'amande amère ; fleurs blanches, en longues grappes dressées, assez serré un peu plus courtes que les feuilles ; drupe assez grosse, ovoïde-aiguè, noire, à saveur acerbe.</Description>
+        <Localisation>Souvent cultivé et, dans le Midi, subspontané autour des habitations. Indigène dans la Perse, le Caucase et la région pontique jusqu'aux environs de Constantinople. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/462.jpg</Scan>
+        <Scan>train/502.jpg</Scan>
+        <Scan>train/684.jpg</Scan>
+        <Scan>train/753.jpg</Scan>
+        <Scan>train/931.jpg</Scan>
+        <Scan>train/1289.jpg</Scan>
+        <Scan>train/1627.jpg</Scan>
+        <Scan>train/1662.jpg</Scan>
+        <Pseudoscan>train/1901.jpg</Pseudoscan>
+        <Scan>train/1910.jpg</Scan>
+        <Scan>train/2015.jpg</Scan>
+        <Scan>train/2106.jpg</Scan>
+        <Scan>train/2213.jpg</Scan>
+        <Scan>train/2754.jpg</Scan>
+        <Scan>train/2763.jpg</Scan>
+        <Photograph>train/3070.jpg</Photograph>
+        <Scan>train/3191.jpg</Scan>
+        <Scan>train/3289.jpg</Scan>
+        <Scan>train/3328.jpg</Scan>
+        <Scan>train/3468.jpg</Scan>
+        <Pseudoscan>train/3559.jpg</Pseudoscan>
+        <Scan>train/3816.jpg</Scan>
+        <Scan>train/3871.jpg</Scan>
+        <Scan>train/3985.jpg</Scan>
+        <Scan>train/4019.jpg</Scan>
+        <Scan>train/4155.jpg</Scan>
+        <Pseudoscan>train/4456.jpg</Pseudoscan>
+        <Scan>train/4707.jpg</Scan>
+        <Scan>train/4720.jpg</Scan>
+        <Scan>train/4917.jpg</Scan>
+        <Pseudoscan>train/5574.jpg</Pseudoscan>
+        <Scan>train/6125.jpg</Scan>
+        <Scan>train/6296.jpg</Scan>
+        <Scan>train/6459.jpg</Scan>
+        <Pseudoscan>train/6571.jpg</Pseudoscan>
+        <Scan>train/6916.jpg</Scan>
+        <Scan>train/6952.jpg</Scan>
+        <Pseudoscan>train/6978.jpg</Pseudoscan>
+        <Pseudoscan>train/6988.jpg</Pseudoscan>
+        <Scan>train/7071.jpg</Scan>
+        <Photograph>train/7250.jpg</Photograph>
+        <Scan>train/7651.jpg</Scan>
+        <Scan>train/7920.jpg</Scan>
+        <Photograph>train/7932.jpg</Photograph>
+        <Scan>train/8136.jpg</Scan>
+        <Scan>train/8197.jpg</Scan>
+        <Pseudoscan>train/8306.jpg</Pseudoscan>
+        <Scan>train/8322.jpg</Scan>
+        <Scan>train/8462.jpg</Scan>
+        <Scan>train/9793.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

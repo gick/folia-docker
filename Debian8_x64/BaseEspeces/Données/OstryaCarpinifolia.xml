@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>OstryaCarpinifolia</ID>
+    <Nom>Ostrya carpinifolia Scop.</Nom>
+    <NomsVernaculaires>
+        <Français>Charme-Houblon</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ostrya</Genus>
+        <Species>carpinifolia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Doublement Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/47069</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3281</NumeroTaxon>
+        <Description>Petit arbre de 3-15 métres, à jeunes rameaux pubescents ; feuilles courtement pétiolées, ovales-Lanceolees, doublement et finement dentées, poilues en dessous sur les nervures au nombre de 12-19 de chaque côté ; fleurs naissant avec les feuilles, les mâles en chatons cylindriques, pendants, sessiles, fasciculés ; ecailles ovales-aiguès, portant à la base 6-12 étamines barbues ; les femelles en chatons cylindriques denses en forme de cônes ; 2 styles ; ovaire à 2 loges uniovulées.</Description>
+        <Localisation>Bois et coteaux, dans les Alpes-Maritimes et les Basses-Alpes ; Corse. Europe méridionale et orientale ; Asie occidentale ; Amérique du Nord. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/2542.jpg</Scan>
+        <Scan>train/4862.jpg</Scan>
+        <Scan>train/7899.jpg</Scan>
+        <Scan>train/8817.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

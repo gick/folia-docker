@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SorbusIntermedia</ID>
+    <Nom>Sorbus intermedia (Ehrh.) Pers.</Nom>
+    <NomsVernaculaires>
+        <Français>Alisier de Suède</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sorbus</Genus>
+        <Species>intermedia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/65309</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/455.jpg</Scan>
+        <Photograph>train/1186.jpg</Photograph>
+        <Photograph>train/3919.jpg</Photograph>
+        <Scan>train/5499.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

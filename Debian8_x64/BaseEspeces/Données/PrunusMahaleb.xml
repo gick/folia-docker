@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusMahaleb</ID>
+    <Nom>Prunus mahaleb L.</Nom>
+    <NomsVernaculaires>
+        <Français>Cerisier de Sainte-Lucie</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>mahaleb</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Courtement Acuminee</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Dentee</Bord>
+            <Bord>Crenelee</Bord>
+            <Taille>Petite</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53552</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1093</NumeroTaxon>
+        <Description>Arbrisseau de 1-4 mètres, à rameaux nombreux, étalés, à bois odorant ; feuiltes petites, ovales en coeur, à peine Acuminees, finement dentées, à dents obtuses, arquées et calleuses-glanduleuses, d'un vert clair, fermes, glabres et luisantes ; fleurs blanches, se développant avec les feuilles, 4-8 en petits corymbes dressés, un peu feuillés à la base ; pédicelles la plupart caducs après la floraison, calice à lobes non ciliés ; drupe subglobuleuse, du volume d'un pois, à la fin noire, à saveur amère et acerbe.</Description>
+        <Localisation>Bois, coteaux et rochers calcaires, dans une grande partie de la France ; rare dans l'Ouest et le Nord.Europe centrale et méridionale- Asie occidentale- Maroc. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/382.jpg</Scan>
+        <Scan>train/708.jpg</Scan>
+        <Scan>train/762.jpg</Scan>
+        <Scan>train/965.jpg</Scan>
+        <Scan>train/1337.jpg</Scan>
+        <Scan>train/1973.jpg</Scan>
+        <Scan>train/2012.jpg</Scan>
+        <Scan>train/2128.jpg</Scan>
+        <Scan>train/2154.jpg</Scan>
+        <Scan>train/2290.jpg</Scan>
+        <Scan>train/2349.jpg</Scan>
+        <Scan>train/2353.jpg</Scan>
+        <Scan>train/2497.jpg</Scan>
+        <Scan>train/2768.jpg</Scan>
+        <Scan>train/2785.jpg</Scan>
+        <Scan>train/2814.jpg</Scan>
+        <Scan>train/2850.jpg</Scan>
+        <Scan>train/2942.jpg</Scan>
+        <Scan>train/3475.jpg</Scan>
+        <Scan>train/3791.jpg</Scan>
+        <Scan>train/3868.jpg</Scan>
+        <Scan>train/4074.jpg</Scan>
+        <Scan>train/4335.jpg</Scan>
+        <Scan>train/4595.jpg</Scan>
+        <Scan>train/4700.jpg</Scan>
+        <Scan>train/4754.jpg</Scan>
+        <Scan>train/4789.jpg</Scan>
+        <Scan>train/4994.jpg</Scan>
+        <Scan>train/5016.jpg</Scan>
+        <Scan>train/5314.jpg</Scan>
+        <Scan>train/5642.jpg</Scan>
+        <Scan>train/5759.jpg</Scan>
+        <Scan>train/5866.jpg</Scan>
+        <Scan>train/5902.jpg</Scan>
+        <Scan>train/5932.jpg</Scan>
+        <Scan>train/6508.jpg</Scan>
+        <Scan>train/6545.jpg</Scan>
+        <Scan>train/6818.jpg</Scan>
+        <Scan>train/6854.jpg</Scan>
+        <Scan>train/7117.jpg</Scan>
+        <Scan>train/7205.jpg</Scan>
+        <Scan>train/7297.jpg</Scan>
+        <Scan>train/7842.jpg</Scan>
+        <Scan>train/8189.jpg</Scan>
+        <Scan>train/8417.jpg</Scan>
+        <Scan>train/8686.jpg</Scan>
+        <Scan>train/8800.jpg</Scan>
+        <Scan>train/9030.jpg</Scan>
+        <Scan>train/9293.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixAlba</ID>
+    <Nom>Salix alba L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule blanc</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>alba</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Denticulee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59255</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3309</NumeroTaxon>
+        <Description>Arbre de 6-25 mètres, à rameaux dressés, flexibles, pubescents ainsi que les feuilles dans leur jeunesse ; feuilles adultes courtement pétiolées, Lanceolees, Acuminees, denticulées, à pointe droite ou peu déjetée, soyeuses-blanchâtres sur les deux faces ou au moins en dessous ; chatons contemporains, cylindriques, pédonculés et feuilles, les mâles grèles, étalés-arqués, les femelles assez denses ; ecailles ciliées, jaunâtres, caduques ; 2 étamines libres, à anthères jaunes ; style court ; capsule glabre, subsessile, à radicelle égalant à peine la glande.</Description>
+        <Localisation>Lieux humides, dans toute la France et en Corse. Europe ; Asie tempérée ; Afrique septentrionale ; introduit en Amérique. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/3384.jpg</Scan>
+        <Scan>train/4210.jpg</Scan>
+        <Scan>train/6208.jpg</Scan>
+        <Scan>train/6746.jpg</Scan>
+        <Scan>train/8579.jpg</Scan>
+        <Scan>train/9642.jpg</Scan>
+        <Scan>train/10290.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

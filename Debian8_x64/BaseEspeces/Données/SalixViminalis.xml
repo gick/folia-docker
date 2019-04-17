@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixViminalis</ID>
+    <Nom>Salix viminalis L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule des vanniers</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>viminalis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Entiere</Bord>
+            <Bord>Sinuee</Bord>
+            <Taille>Longue</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/60033</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3301</NumeroTaxon>
+        <Description>Arbrisseau ou arbuste de 3-10 mètres, à rameaux longs et flexibles, les jeunes et les bourgeons pubescents ; feuilles pétiolées, longuement Lanceolees-Acuminees, entières ou ondulées, vertes et glabres en dessus, argentées soyeuses en dessous ; chatons précoces, oblongs ou cylindriques, denses, sessiles, à écailles velues, noirâtres ; 2 étamines libres et glabres, anthères jaunes ; style long ; capsule soyeuse, subsessile, à pedicelle plus court que la glande Lineaire.</Description>
+        <Localisation>Lieux humides, rivières, dans une grande partie de la France ; très rare dans le Midi. Europe, surtout centrale ; Asie tempérée ; naturalisé en Amérique. </Localisation>
+    </FloreDeCoste>
+</Espèce>

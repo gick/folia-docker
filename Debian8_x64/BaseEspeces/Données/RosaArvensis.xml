@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RosaArvensis</ID>
+    <Nom>Rosa arvensis Huds.</Nom>
+    <NomsVernaculaires>
+        <Français>Rosier des champs</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rosa</Genus>
+        <Species>arvensis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/56523</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1210</NumeroTaxon>
+        <Description>Arbrisseau sarmenteux, décombant, à aiguillons épars ; feuilles promptement caduques, à 5-7 folioles souvent pubescentes, glaucescentes en dessous, minces, non luisantes, souvent obtuses, à dents simples, larges, non conniventes ; stipules assez étroites, à oreillettes dressées ; bractées primaires dressées ; fleurs blanches, en corymbes ou solitaires, à pédicelles glanduleux ; boutons courts, ovoïdes ; sépales ovales-aigus, presque entiers, reflèchis, caducs ; colonne stylaire glabre, égalant les étamines ; fruit petit.</Description>
+        <Localisation>Bois, haies, bords des champs, dans presque toute la France. Europe occidentale et centrale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

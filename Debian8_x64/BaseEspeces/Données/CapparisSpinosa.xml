@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CapparisSpinosa</ID>
+    <Nom>Capparis spinosa L.</Nom>
+    <NomsVernaculaires>
+        <Français>Câprier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Capparis</Genus>
+        <Species>spinosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Orbiculaire</Forme>
+            <Sommet>Arrondie</Sommet>
+            <Sommet>Obtuse</Sommet>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/12719</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>351</NumeroTaxon>
+        <Description>Plante sous-ligneuse, à souche émettant de nombreuses tiges couchées ou ascendantes, longues de 1 mètre et plus, pubescentes au sommet ; feuilles alternes, ovales-arrondies, entières, à petiole muni à la base de 2 épines Recourbees ; fleurs d'un blanc rosé, grandes, solitaires sur des pédoncules axillaires épais ; 4 sépales ovales, verdâtres ; 4 pétales obovales, plus longs que le calice ; etamines très nombreuses, dépassant la corolle ; stigmate sessile ; baie indéhiscente, à nombreuses graines en rein.</Description>
+        <Localisation>Murs et rochers bien exposés, dans la Provence, le Languedoc, le Roussillon et la gironde. Région méditerranéenne de l'Europe, de l'Asie et de l'Afrique. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/142.jpg</Scan>
+        <Scan>train/381.jpg</Scan>
+        <Pseudoscan>train/479.jpg</Pseudoscan>
+        <Scan>train/1447.jpg</Scan>
+        <Scan>train/2145.jpg</Scan>
+        <Pseudoscan>train/2148.jpg</Pseudoscan>
+        <Pseudoscan>train/2337.jpg</Pseudoscan>
+        <Scan>train/2566.jpg</Scan>
+        <Scan>train/2682.jpg</Scan>
+        <Scan>train/2931.jpg</Scan>
+        <Scan>train/3046.jpg</Scan>
+        <Pseudoscan>train/3048.jpg</Pseudoscan>
+        <Pseudoscan>train/3158.jpg</Pseudoscan>
+        <Scan>train/3434.jpg</Scan>
+        <Scan>train/3552.jpg</Scan>
+        <Scan>train/4322.jpg</Scan>
+        <Scan>train/4345.jpg</Scan>
+        <Scan>train/5029.jpg</Scan>
+        <Scan>train/5176.jpg</Scan>
+        <Scan>train/5316.jpg</Scan>
+        <Scan>train/5549.jpg</Scan>
+        <Scan>train/5776.jpg</Scan>
+        <Pseudoscan>train/5871.jpg</Pseudoscan>
+        <Pseudoscan>train/6297.jpg</Pseudoscan>
+        <Scan>train/6576.jpg</Scan>
+        <Scan>train/6694.jpg</Scan>
+        <Scan>train/7076.jpg</Scan>
+        <Pseudoscan>train/7172.jpg</Pseudoscan>
+        <Scan>train/7355.jpg</Scan>
+        <Scan>train/7769.jpg</Scan>
+        <Pseudoscan>train/7977.jpg</Pseudoscan>
+        <Pseudoscan>train/8389.jpg</Pseudoscan>
+        <Pseudoscan>train/9519.jpg</Pseudoscan>
+        <Scan>train/9739.jpg</Scan>
+        <Scan>train/9938.jpg</Scan>
+        <Scan>train/9959.jpg</Scan>
+        <Scan>train/10178.jpg</Scan>
+        <Pseudoscan>train/10350.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusPetraea</ID>
+    <Nom>Quercus petraea Liebl. </Nom>
+    <NomsVernaculaires>
+        <Français>Chêne rouvre</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>petraea</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Obovale</Forme>
+            <Sommet>Arrondie</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Sinuee</Bord>
+            <Bord>Lobee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54527</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3277</NumeroTaxon>
+        <Description>Arbre élevé, élancé, à bois brûlant difficilement ; jeunes rameaux fragiles, glabrescents ; feuilles nettement pétiolées, caduques, obovales, Sinuees-lobées, non auriculées, glabres ou un peu pubescentes en dessous sur les nervures, d'un vert foncé en dessus ; fleurs femelles sessiles, agglomérées ; style très court, à stigmates triangulaires étalés dès la base ; fruits subsessiles ou à pédoncule égalant à peu près le pétiole ; cupule glabrescente, à écailles nombreuses, serrées, toutes appliquées ; glands genéralement ovoïdes.</Description>
+        <Localisation>Haies et bois frais, dans presque toute la France, mais rare dans le Midi ; Corse. Europe, surtout centrale ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/410.jpg</Scan>
+        <Scan>train/463.jpg</Scan>
+        <Scan>train/496.jpg</Scan>
+        <Scan>train/497.jpg</Scan>
+        <Scan>train/691.jpg</Scan>
+        <Scan>train/727.jpg</Scan>
+        <Scan>train/1004.jpg</Scan>
+        <Scan>train/1127.jpg</Scan>
+        <Scan>train/1362.jpg</Scan>
+        <Scan>train/1911.jpg</Scan>
+        <Scan>train/2079.jpg</Scan>
+        <Scan>train/2097.jpg</Scan>
+        <Scan>train/2152.jpg</Scan>
+        <Scan>train/2257.jpg</Scan>
+        <Scan>train/2366.jpg</Scan>
+        <Scan>train/2387.jpg</Scan>
+        <Scan>train/2749.jpg</Scan>
+        <Scan>train/2825.jpg</Scan>
+        <Scan>train/2904.jpg</Scan>
+        <Scan>train/3008.jpg</Scan>
+        <Scan>train/3296.jpg</Scan>
+        <Scan>train/3352.jpg</Scan>
+        <Pseudoscan>train/3692.jpg</Pseudoscan>
+        <Scan>train/4625.jpg</Scan>
+        <Scan>train/4864.jpg</Scan>
+        <Pseudoscan>train/5177.jpg</Pseudoscan>
+        <Scan>train/5363.jpg</Scan>
+        <Scan>train/5523.jpg</Scan>
+        <Scan>train/5791.jpg</Scan>
+        <Scan>train/5913.jpg</Scan>
+        <Pseudoscan>train/6512.jpg</Pseudoscan>
+        <Pseudoscan>train/6591.jpg</Pseudoscan>
+        <Scan>train/7202.jpg</Scan>
+        <Scan>train/7728.jpg</Scan>
+        <Scan>train/7912.jpg</Scan>
+        <Scan>train/8111.jpg</Scan>
+        <Scan>train/8618.jpg</Scan>
+        <Scan>train/8696.jpg</Scan>
+        <Scan>train/8717.jpg</Scan>
+        <Pseudoscan>train/8786.jpg</Pseudoscan>
+        <Scan>train/8862.jpg</Scan>
+        <Scan>train/8957.jpg</Scan>
+        <Scan>train/9224.jpg</Scan>
+        <Scan>train/9306.jpg</Scan>
+        <Scan>train/9592.jpg</Scan>
+        <Pseudoscan>train/9841.jpg</Pseudoscan>
+        <Scan>train/10167.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

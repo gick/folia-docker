@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusSpinosa</ID>
+    <Nom>Prunus spinosa L.</Nom>
+    <NomsVernaculaires>
+        <Français>Prunellier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>spinosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Forme>Obovale</Forme>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Finement Dentee</Bord>
+            <Taille>Petite</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53652</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1090</NumeroTaxon>
+        <Description>Buisson de 50 cm. à 2 mètres, à rameaux très épineux, divariqués, d'un brun noir, les jeunes pubescents ; feuilles petites, obovoles, oblongues ou lanceolées, finement dentées, d'abord pubescentes, puis glabres ; stipules pubescenles ; fleurs blanches, petites, la plupart solitaires, à pédoncules ordinairement glabres ; calice glabre en dedans ; drupe petite (6-1 mm. de diam.), globuleuse, dressée, d'un bleu noirâtre, très acerbe ; noyau subglobuleux, peu déprimé, presque lisse.</Description>
+        <Localisation>Haies, boies, coteaux, dans toute la France et en Corse. Presque toute l'europe ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/284.jpg</Scan>
+        <Scan>train/520.jpg</Scan>
+        <Scan>train/1030.jpg</Scan>
+        <Scan>train/1146.jpg</Scan>
+        <Scan>train/1963.jpg</Scan>
+        <Scan>train/2820.jpg</Scan>
+        <Scan>train/4834.jpg</Scan>
+        <Scan>train/5095.jpg</Scan>
+        <Scan>train/5948.jpg</Scan>
+        <Scan>train/6101.jpg</Scan>
+        <Scan>train/7668.jpg</Scan>
+        <Scan>train/7782.jpg</Scan>
+        <Scan>train/8284.jpg</Scan>
+        <Scan>train/9436.jpg</Scan>
+        <Scan>train/9802.jpg</Scan>
+        <Scan>train/10270.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

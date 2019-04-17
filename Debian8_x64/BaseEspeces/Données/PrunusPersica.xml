@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusPersica</ID>
+    <Nom>Prunus persica (L.) Batsch.</Nom>
+    <NomsVernaculaires>
+        <Français>Pêcher commun</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>persica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Dentee en Scie</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53578</TelaBotanica>
+</Espèce>

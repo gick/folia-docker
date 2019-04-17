@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RibesNigrum</ID>
+    <Nom>Ribes nigrum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Cassis</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ribes</Genus>
+        <Species>nigrum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/56136</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1398</NumeroTaxon>
+        <Description>Sous-arbrisscau de 1 m. à 1 m. 50, non épineux, hermaphrodite, parsemé sur les feuilles en dessous, sur les bourgeons et sur les fruits de glandes jaunes odorantes ; feuilles Palmatilobees, à 3-5 ; lobes triangulaires, dentés, pubescentes en dessous ; fleurs rougeâtres, en grappes axillaires toujours pendantes ; bractées velues, lancéoltées-aiguès, plus courtes que les pédicelles ; calice en cloche, tomenteux en dehors, ponctué-glanduleux, à sépales oblongs, obtus, réfléchis en dehors ; pétales obovales, deux fois plus courts que les sépales ; baies noires, ponctuées, à saveur et odeur aromatiques.</Description>
+        <Localisation>Bois du Nord-Est ; Ardennes, Meuse, Meurthe et Moselle, Alsace-Lorraine. Très cultivé, et parfois subspontané. Europe centrale et boréale, Arménie, Sibérie, Daourie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

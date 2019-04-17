@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PhotiniaSerrulata</ID>
+    <Nom>Photinia serrulata Franch.</Nom>
+    <NomsVernaculaires>
+        <Français>Photinia de Chine</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Photinia</Genus>
+        <Species>serrulata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://en.wikipedia.org/wiki/Photinia_serratifolia</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/165.jpg</Scan>
+        <Scan>train/443.jpg</Scan>
+        <Scan>train/504.jpg</Scan>
+        <Scan>train/638.jpg</Scan>
+        <Scan>train/972.jpg</Scan>
+        <Scan>train/994.jpg</Scan>
+        <Scan>train/1513.jpg</Scan>
+        <Pseudoscan>train/1683.jpg</Pseudoscan>
+        <Scan>train/1723.jpg</Scan>
+        <Scan>train/1837.jpg</Scan>
+        <Scan>train/2085.jpg</Scan>
+        <Scan>train/2478.jpg</Scan>
+        <Scan>train/2870.jpg</Scan>
+        <Pseudoscan>train/3014.jpg</Pseudoscan>
+        <Scan>train/3093.jpg</Scan>
+        <Pseudoscan>train/3096.jpg</Pseudoscan>
+        <Scan>train/3212.jpg</Scan>
+        <Scan>train/3732.jpg</Scan>
+        <Scan>train/4159.jpg</Scan>
+        <Scan>train/4325.jpg</Scan>
+        <Scan>train/4361.jpg</Scan>
+        <Scan>train/4476.jpg</Scan>
+        <Scan>train/4591.jpg</Scan>
+        <Scan>train/4815.jpg</Scan>
+        <Scan>train/4950.jpg</Scan>
+        <Scan>train/5003.jpg</Scan>
+        <Scan>train/5251.jpg</Scan>
+        <Pseudoscan>train/5613.jpg</Pseudoscan>
+        <Scan>train/5828.jpg</Scan>
+        <Scan>train/6449.jpg</Scan>
+        <Scan>train/7393.jpg</Scan>
+        <Pseudoscan>train/8219.jpg</Pseudoscan>
+        <Scan>train/8414.jpg</Scan>
+        <Scan>train/8525.jpg</Scan>
+        <Scan>train/8552.jpg</Scan>
+        <Scan>train/8656.jpg</Scan>
+        <Pseudoscan>train/8904.jpg</Pseudoscan>
+        <Scan>train/9208.jpg</Scan>
+        <Pseudoscan>train/9560.jpg</Pseudoscan>
+        <Scan>train/9760.jpg</Scan>
+        <Scan>train/9981.jpg</Scan>
+        <Scan>train/10272.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RibesRubrum</ID>
+    <Nom>Ribes rubrum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Groseiller rouge</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ribes</Genus>
+        <Species>rubrum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75483</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1399</NumeroTaxon>
+        <Description>Sous-arbrisseau de 1 m. à 1 m. 50, non épineux, hermaphrodite ; feuilles grandes, Palmatilobees, à 3-5 lobes profondément dentés, pubescentes en dessous ; fleurs d'un vert jaunâtre, en grappes axillaires toujours pendantes ; bractées glabres, ovales-obtuses bien plus courtes que les pédicelles ; calice en coupe, glabre, à sépales obovales, obtus, plans ; pétales en coin beaucoup plus courts que les sépales ; baies rouges, rarement blanchâtres, glabres, à saveur acide.</Description>
+        <Localisation>Bois du Nord-Est : Ardenne, Meuse, Meurthe-et-Moselle, Alsace-Lorraine, chaène du Jura. Europe ; Asie ; Amérique du Nord. </Localisation>
+    </FloreDeCoste>
+</Espèce>

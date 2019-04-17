@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>TiliaPlatyphyllos</ID>
+    <Nom>Tilia platyphyllos Scop. </Nom>
+    <NomsVernaculaires>
+        <Français>Tilleul à grandes feuilles</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Tilia</Genus>
+        <Species>platyphyllos</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Cordée</Forme>
+            <Forme>Ovale</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>Obliquement En Coeur</Base>
+            <Bord>Dentee en Scie</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/68332</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>609</NumeroTaxon>
+        <Description>Feuilles grandes, vertes-concolores sur les deux faces, glabres en dessus, mollement velues en dessous, avec les aisselles garnies de poils blanchâtres ; bourgeons velus, revètus de 3 écailles apparentes, imbriquées, la troisième complètement embrassante ; fleurs d'un blanc jaunâtre, assez grandes, très odorantes, 2-5 par corymbe ; stigmates dressés ; fruit gros, obovoïde, velu, à parois épaisses et ligneuses, à 5 côtes très saillantes.</Description>
+        <Localisation>Bois, dans les régions de l'Est et du Midi, très fréquemment planté dans les allées et les promenades. Europe centrale et méridionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Photograph>train/858.jpg</Photograph>
+        <Photograph>train/1654.jpg</Photograph>
+        <Scan>train/3512.jpg</Scan>
+        <Photograph>train/4349.jpg</Photograph>
+        <Scan>train/4539.jpg</Scan>
+        <Scan>train/4760.jpg</Scan>
+        <Scan>train/4821.jpg</Scan>
+        <Scan>train/6621.jpg</Scan>
+        <Scan>train/6967.jpg</Scan>
+        <Photograph>train/7876.jpg</Photograph>
+        <Scan>train/8296.jpg</Scan>
+        <Scan>train/8596.jpg</Scan>
+        <Scan>train/8747.jpg</Scan>
+        <Scan>train/9486.jpg</Scan>
+        <Scan>train/9976.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

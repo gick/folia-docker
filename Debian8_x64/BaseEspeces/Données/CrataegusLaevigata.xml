@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CrataegusLaevigata</ID>
+    <Nom>Crataegus laevigata (Poir.) DC.</Nom>
+    <NomsVernaculaires>
+        <Français>Aubépine à deux styles</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Crataegus</Genus>
+        <Species>laevigata</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Pennatilobee</Forme>
+            <Forme>Obovale</Forme>
+            <NombreLobes>3-5</NombreLobes>
+            <Base>En Coin</Base>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/19443</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1255</NumeroTaxon>
+        <Description>Voisin du précédent.</Description>
+        <Localisation>Haies et bois, dans presque toute la France ; rare dans la région méditerranéenne. Europe, surtout centrale et boréale ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/1094.jpg</Pseudoscan>
+        <Pseudoscan>train/3558.jpg</Pseudoscan>
+        <Pseudoscan>train/5288.jpg</Pseudoscan>
+        <Pseudoscan>train/5501.jpg</Pseudoscan>
+        <Pseudoscan>train/6769.jpg</Pseudoscan>
+        <Pseudoscan>train/8503.jpg</Pseudoscan>
+        <Pseudoscan>train/8567.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

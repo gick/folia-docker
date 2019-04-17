@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AcerOpalus</ID>
+    <Nom>Acer opalus Mill.</Nom>
+    <NomsVernaculaires>
+        <Français>Erable à feuilles d'obier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Acer</Genus>
+        <Species>opalus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+            <Forme>Palmatilobee</Forme>
+            <NombreLobes>5-7</NombreLobes>
+            <Sommet>Obtuse</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Sinuee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/197</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>692</NumeroTaxon>
+        <Description>Arbre élevé, à écorce lisse ; feuilles assez grandes, coriaces, vertes et glabres en dessus, mates, glauques-blanchâtres et souvent poilues en dessous, en coeur à la base, à 5-7 lobes courts et larges, lâchement dentés, obtus ou à peine acuminés, séparés par des sinus peu profonds, ouverts, presque droits ; fleurs d'un jaune verdâtre, paraissant avant les feuilles, en corymbes penchés, lâches, subsessiles ; sépales, pétales, filets des étamines glabres ; samares glabres, à coques très renflées, bossues, lisses, à ailes dressées-étalées, divergentes, non rétrécies à la base.</Description>
+        <Localisation>Bois des montagnes, surtout calcaires, du Midi et de l'Est ; Jura ; Alpes ; Cévennes ; Pyrénées ; Corse. Europe méridionale ; Caucase, Perse ; Algérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/157.jpg</Pseudoscan>
+        <Pseudoscan>train/247.jpg</Pseudoscan>
+        <Scan>train/273.jpg</Scan>
+        <Pseudoscan>train/336.jpg</Pseudoscan>
+        <Scan>train/498.jpg</Scan>
+        <Scan>train/637.jpg</Scan>
+        <Pseudoscan>train/981.jpg</Pseudoscan>
+        <Pseudoscan>train/1163.jpg</Pseudoscan>
+        <Pseudoscan>train/1182.jpg</Pseudoscan>
+        <Scan>train/1448.jpg</Scan>
+        <Pseudoscan>train/2090.jpg</Pseudoscan>
+        <Pseudoscan>train/2242.jpg</Pseudoscan>
+        <Pseudoscan>train/2631.jpg</Pseudoscan>
+        <Pseudoscan>train/3123.jpg</Pseudoscan>
+        <Scan>train/3398.jpg</Scan>
+        <Pseudoscan>train/3581.jpg</Pseudoscan>
+        <Pseudoscan>train/3624.jpg</Pseudoscan>
+        <Pseudoscan>train/3817.jpg</Pseudoscan>
+        <Scan>train/4052.jpg</Scan>
+        <Scan>train/4065.jpg</Scan>
+        <Pseudoscan>train/4215.jpg</Pseudoscan>
+        <Pseudoscan>train/4648.jpg</Pseudoscan>
+        <Pseudoscan>train/5166.jpg</Pseudoscan>
+        <Scan>train/5319.jpg</Scan>
+        <Scan>train/5368.jpg</Scan>
+        <Scan>train/5564.jpg</Scan>
+        <Pseudoscan>train/5793.jpg</Pseudoscan>
+        <Scan>train/6550.jpg</Scan>
+        <Pseudoscan>train/7050.jpg</Pseudoscan>
+        <Pseudoscan>train/7062.jpg</Pseudoscan>
+        <Scan>train/7661.jpg</Scan>
+        <Scan>train/7916.jpg</Scan>
+        <Pseudoscan>train/8337.jpg</Pseudoscan>
+        <Pseudoscan>train/8644.jpg</Pseudoscan>
+        <Photograph>train/8912.jpg</Photograph>
+        <Scan>train/9047.jpg</Scan>
+        <Pseudoscan>train/9103.jpg</Pseudoscan>
+        <Pseudoscan>train/9510.jpg</Pseudoscan>
+        <Pseudoscan>train/9700.jpg</Pseudoscan>
+        <Pseudoscan>train/9925.jpg</Pseudoscan>
+        <Pseudoscan>train/10037.jpg</Pseudoscan>
+        <Scan>train/10111.jpg</Scan>
+        <Pseudoscan>train/10429.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

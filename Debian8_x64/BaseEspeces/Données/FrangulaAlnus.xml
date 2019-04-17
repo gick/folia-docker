@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>FrangulaAlnus</ID>
+    <Nom>Frangula alnus Mill.</Nom>
+    <NomsVernaculaires>
+        <Français>Bourdaine</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Frangula</Genus>
+        <Species>alnus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Aigue</Sommet>
+            <Bord>Entiere</Bord>
+            <Bord>Ondulee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/28182</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>719</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 4 mètres, dressé, à rameaux alternes, non épineux, les jeunes glabrescents ; feuilles caduques, alternes, ovales ou elliptiques, entières ou un peu Sinuees, munies de chaque côté de la nervure médiane de 8-12 nervures saillantes, parallèles, presque droites ; stipules égalant la moitié du pétiole ; fleurs hermaphrodites, verdâtres, en faisceaux peu fournis ; calice à 5 lobes lancéolés, aussi longs que le tube ; 5 pétales ovales ; style simple, à stigmate en tète.</Description>
+        <Localisation>Haies et bois, dans presque toute la France. Europe, surtout centrale et boréale ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/358.jpg</Scan>
+        <Scan>train/1956.jpg</Scan>
+        <Scan>train/2195.jpg</Scan>
+        <Scan>train/4486.jpg</Scan>
+        <Scan>train/5600.jpg</Scan>
+        <Scan>train/9968.jpg</Scan>
+        <Scan>train/10027.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

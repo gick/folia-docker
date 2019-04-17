@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CoronillaEmerus</ID>
+    <Nom>Coronilla emerus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Coronille arbrisseau</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Coronilla</Genus>
+        <Species>emerus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/18975</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1063</NumeroTaxon>
+        <Description>Arbrisseau de 50 cm. à 2 mètres ; rameaux flexueux-noueux, durs, pleins, anguleux ; feuilles Imparipennees, à 2-4 paires de folioles obovales, la terminale un peu plus grande ; stipules petites, Lanceolees, libres, marcescentes ; fleurs jaunes, grandes (15-20 mm.), 2-4 sur des pédoncules souvent plus courts que la feuille ; pédicelles plus courts que le calice ; onglets 2-3 fois plus longs que le calice ; gousses pendantes, longues de 5-10 cm., droites, à 7-10 articles peu marqués, à 2 angles obtus.</Description>
+        <Localisation>Bois et coteaux, surtout calcaires, dans l'Est, le Midi et le Sud-Ouest ; Corse. Europe méridionale et centrale jusqu'à la Norvège. </Localisation>
+    </FloreDeCoste>
+</Espèce>

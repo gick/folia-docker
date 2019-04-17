@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SorbusLatifolia</ID>
+    <Nom>Sorbus latifolia (Lam.) Pers.</Nom>
+    <NomsVernaculaires>
+        <Français>Alisier de Fontainebleau</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sorbus</Genus>
+        <Species>latifolia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/65311</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>1272</NumeroTaxon>
+        <Description>Arbre assez élevé, à bourgeons peu tomenteux ; </Description>
+        <Localisation>Bois, dans Ie Centre. Environs de Paris, forèt de Fontainebleau ; Seine-et-Marne ; Yonne. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/70.jpg</Scan>
+        <Scan>train/7676.jpg</Scan>
+        <Scan>train/8359.jpg</Scan>
+        <Scan>train/8967.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

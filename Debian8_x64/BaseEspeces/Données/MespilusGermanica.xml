@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>MespilusGermanica</ID>
+    <Nom>Mespilus germanica L.</Nom>
+    <NomsVernaculaires>
+        <Français>Néflier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Mespilus</Genus>
+        <Species>germanica</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Oblongue</Forme>
+            <Sommet>Aigue</Sommet>
+            <Bord>Entiere</Bord>
+            <Bord>Denticulee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/42397</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1252</NumeroTaxon>
+        <Description>Arbuste tortueux, à rameaux épineux ; feuilles oblongues, entières, courtement pétiolées, mollement pubescentes en dessous ; stipules libres, caduques ; fleurs blanches, grandes, solitaires, subsessiles, terminales ; calice à 5 lobes foliacés, Iancéolés, entiers, persistants, plus longs que la corolle ; 5 pétales, suborbiculaires ; 5 styles, libres, glabres ; ovaire adhérent et infère ; fruit charnu, assez gros, arrondi en toupie, tronqué et largement ombiliqué au sommet, couronné par les lobes du calice dressés, pubescent, brun, renfermant 5 noyaux osseux monospermes.</Description>
+        <Localisation>Haies et bois, çà et là dans presque toute la France, o il n'est peut-ètre que naturalisé, ainsi que dans l'Europe centrale et méridionale. Indigène dans la Grèce, la Thrace, la région du Caucase et la Perse. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/18.jpg</Scan>
+        <Scan>train/194.jpg</Scan>
+        <Scan>train/265.jpg</Scan>
+        <Scan>train/435.jpg</Scan>
+        <Scan>train/937.jpg</Scan>
+        <Scan>train/1103.jpg</Scan>
+        <Scan>train/1126.jpg</Scan>
+        <Scan>train/1709.jpg</Scan>
+        <Scan>train/1810.jpg</Scan>
+        <Scan>train/2200.jpg</Scan>
+        <Scan>train/2226.jpg</Scan>
+        <Scan>train/2859.jpg</Scan>
+        <Scan>train/3329.jpg</Scan>
+        <Scan>train/3880.jpg</Scan>
+        <Scan>train/4028.jpg</Scan>
+        <Scan>train/4069.jpg</Scan>
+        <Scan>train/4227.jpg</Scan>
+        <Scan>train/4469.jpg</Scan>
+        <Scan>train/4743.jpg</Scan>
+        <Scan>train/5936.jpg</Scan>
+        <Scan>train/6597.jpg</Scan>
+        <Scan>train/6954.jpg</Scan>
+        <Scan>train/7276.jpg</Scan>
+        <Scan>train/7463.jpg</Scan>
+        <Scan>train/7634.jpg</Scan>
+        <Scan>train/7692.jpg</Scan>
+        <Scan>train/8539.jpg</Scan>
+        <Scan>train/8698.jpg</Scan>
+        <Scan>train/9487.jpg</Scan>
+        <Scan>train/9815.jpg</Scan>
+        <Scan>train/9860.jpg</Scan>
+        <Scan>train/9930.jpg</Scan>
+        <Photograph>train/10018.jpg</Photograph>
+        <Scan>train/10064.jpg</Scan>
+        <Scan>train/10267.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

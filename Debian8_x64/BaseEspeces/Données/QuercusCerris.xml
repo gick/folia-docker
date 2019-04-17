@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusCerris</ID>
+    <Nom>Quercus cerris L.</Nom>
+    <NomsVernaculaires>
+        <Français>Chêne chevelu</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>cerris</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Obovale</Forme>
+            <Forme>Oblongue</Forme>
+            <Sommet>Aigue</Sommet>
+            <Bord>Sinuee</Bord>
+            <Bord>Pennatifide</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54386</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3274</NumeroTaxon>
+        <Description>Arbre élevé, non subéreux, à racine pivotante ; stipules supérieures et écailles extérieures des bourgeons longuement sétacées ; feuilles pétiolées, peu coriaces, caduques, oblongues ou obovales, Sinuees ou pennatifides, d'un vert sombre en dessus, plus pâles et pubescentes en dessous ; chatons mâles lâches ; fruits placés sur des pédoncules courts et épais, latéraux sur les rameaux de la 2 année ; cupule grosse hérissée d'écailles longues, Lineaires, étalées ou Recourbees, tortillées ; gland ovoïde-oblong.</Description>
+        <Localisation>Haies et bois ; Laine-et-Loire, Loire-Inférieure, Vendée, Deux-Sèvres, Doubs, Jura, Var. Europe méridionale et orientale ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/600.jpg</Scan>
+        <Scan>train/800.jpg</Scan>
+        <Scan>train/1414.jpg</Scan>
+        <Scan>train/3649.jpg</Scan>
+        <Scan>train/4919.jpg</Scan>
+        <Scan>train/4937.jpg</Scan>
+        <Scan>train/4958.jpg</Scan>
+        <Scan>train/5215.jpg</Scan>
+        <Scan>train/5447.jpg</Scan>
+        <Scan>train/6153.jpg</Scan>
+        <Scan>train/7228.jpg</Scan>
+        <Scan>train/8938.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

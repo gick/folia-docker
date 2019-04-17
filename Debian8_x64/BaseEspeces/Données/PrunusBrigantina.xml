@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusBrigantina</ID>
+    <Nom>Prunus brigantina Vill.</Nom>
+    <NomsVernaculaires>
+        <Français>Prunier des Alpes</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>brigantina</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Doublement Dentee</Bord>
+            <Taille>Large</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53436</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>1086</NumeroTaxon>
+        <Description>Arbrisseau de 2 à 5 mètres, à rameaux non épineux, étalés, glabres ; feuilles largement ovales encoeur, Acuminees, doublement dentées à dents sétacées glabres et luisantes ; stipules glabres ; fleurs blanches, petites, 2-5 par fascicule, à pedoncules glabres égalant au moins le calice glabre en dedans ; drupe de la grosseur d'une petite prune reine-claude, subglobuleuse-aiguè, jaunâtre, à saveur acerbe ; </Description>
+        <Localisation>Lieux arides des Alpes au-dessus de 1400 m. : Hautes-</Localisation>
+    </FloreDeCoste>
+</Espèce>

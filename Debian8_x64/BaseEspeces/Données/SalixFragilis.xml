@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixFragilis</ID>
+    <Nom>Salix fragilis L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule cassant</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>fragilis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59513</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3308</NumeroTaxon>
+        <Description>Arbre de 5-15 mètres, à rameaux étalés-dressés, fragiles à leurs bifurcations, bientôt glabres ; feuilles d'abord soyeuses, puis glabres, courtement pétiolées, Lanceolees, Acuminees, denticulées, à pointe déjetée de côté, luisantes en dessus, glauques-blauchâtres ou pâles en dessous ; chatons contemporains, cylindriques, pédonculés et feuilles, les mâles assez denses, les femelles grèles et lâches, à écailles ciliées, jaunâtres, caduques ; 2 étamines libres, à anthères jaunes ; style court ; capsule glabre, à pédicelle 2-3 fois plus long que les 2 glandes.</Description>
+        <Localisation>Bords des eaux, dans presque toute la France ; Corse. Europe ; Asie centrale et boréale ; introduit en Amérique. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/8606.jpg</Scan>
+        <Scan>train/9612.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

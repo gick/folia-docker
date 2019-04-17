@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusPalustris</ID>
+    <Nom>Quercus palustris Münchh.</Nom>
+    <NomsVernaculaires>
+        <Français>Chêne des marais</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>palustris</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75771</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/1082.jpg</Scan>
+        <Scan>train/1688.jpg</Scan>
+        <Pseudoscan>train/2284.jpg</Pseudoscan>
+        <Scan>train/2854.jpg</Scan>
+        <Scan>train/4763.jpg</Scan>
+        <Scan>train/5305.jpg</Scan>
+        <Scan>train/5961.jpg</Scan>
+        <Scan>train/6469.jpg</Scan>
+        <Scan>train/7213.jpg</Scan>
+        <Pseudoscan>train/7294.jpg</Pseudoscan>
+        <Scan>train/7908.jpg</Scan>
+        <Scan>train/8797.jpg</Scan>
+        <Scan>train/9430.jpg</Scan>
+        <Scan>train/9744.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

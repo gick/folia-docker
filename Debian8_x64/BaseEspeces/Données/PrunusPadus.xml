@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PrunusPadus</ID>
+    <Nom>Prunus padus L.</Nom>
+    <NomsVernaculaires>
+        <Français>Cerisier à grappes</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Prunus</Genus>
+        <Species>padus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Obovale</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Denticulee</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/53571</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Scan>train/4121.jpg</Scan>
+        <Scan>train/4906.jpg</Scan>
+        <Scan>train/9887.jpg</Scan>
+        <Scan>train/10094.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

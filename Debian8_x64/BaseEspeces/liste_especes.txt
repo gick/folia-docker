@@ -1,0 +1,95 @@
+0 AcerCampestre 
+1 AcerMonspessulanum
+ 2 AcerNegundo 
+3 AcerOpalus 
+4 AcerPlatanoides 
+5 AcerPseudoplatanus
+ 8 AilanthusAltissima 
+10 AlnusCordata 
+11 AlnusGlutinosa
+ 12 ArbutusUnedo
+ 13 BetulaPendula
+ 14 BetulaPubescens
+ 16 BroussonetiaPapyrifera
+ 18 BuxusSempervirens
+ 20 CarpinusBetulus 
+21 CastaneaSativa 
+22 CeltisAustralis
+ 23 CerasusMahaleb
+ 24 CercisSiliquastrum 
+25 ColuteaArborescens
+ 26 CornusMas
+ 27 CornusSanguinea
+ 28 CorylusAvellana
+ 29 CotinusCoggygria 
+30 CrataegusAzarolus
+ 31 CrataegusLaevigata
+ 32 CrataegusMonogyna
+ 34 DiospyrosKaki 
+37 EuonymusEuropaeus 
+40 FagusSylvatica
+ 41 FicusCarica 
+43 FraxinusAngustifolia 
+44 FraxinusExcelsior
+ 45 FraxinusOrnus 
+48 HederaHelix 
+49 IlexAquifolium
+ 51 JuglansRegia 
+54 LaburnumAnagyroides 
+55 LaurusNobilis
+ 56 LigustrumVulgare
+ 59 MagnoliaGrandiflora
+ 60 MalusSylvestris 
+62 MespilusGermanica 
+63 MorusAlba
+ 65 NeriumOleander 
+66 OleaEuropaea
+ 67 OstryaCarpinifolia
+ 68 PaliurusSpina-christi
+ 71 PistaciaLentiscus
+ 72 PistaciaTerebinthus 
+74 PittosporumTobira 
+75 PlatanusHispanica
+ 76 PopulusAlba 
+77 PopulusNigra
+ 78 PopulusTremula 
+80 PrunusAvium
+ 81 PrunusDulcis
+ 82 PrunusLaurocerasus 
+83 PrunusPadus
+ 84 PrunusSerotina
+ 86 PrunusSpinosa
+ 87 PunicaGranatum
+ 89 QuercusCerris
+ 90 QuercusCoccifera
+ 91 QuercusIlex 
+93 QuercusPetraea
+ 94 QuercusPubescens 
+95 QuercusRobur 
+96 QuercusRubra
+ 97 RhamnusAlaternus
+ 98 RhamnusCathartica
+ 99 RhusCoriaria 
+101 RobiniaPseudoacacia
+ 103 SalixAlba
+104 SalixCaprea 
+105 SalixCinerea
+ 106 SalixFragilis 
+107 SambucusNigra 
+109 SorbusAria
+ 109 SorbusAucuparia 
+111 SorbusDomestica 
+114 SorbusTorminalis 
+115 SyringaVulgaris
+ 116 TiliaCordata
+ 117 TiliaPlatyphyllos
+ 120 UlmusMinor 
+121 ViburnumLantana 
+122 ViburnumOpulus
+ 123 ViburnumTinus 
+126 PyrusPyraster 
+127 SalixViminalis 
+128 UlmusGlabra
+ 129 QuercusPyrenaica
+ 130 QuercusSuber
+ 131 AmelanchierOvalis

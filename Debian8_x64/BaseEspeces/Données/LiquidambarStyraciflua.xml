@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>LiquidambarStyraciflua</ID>
+    <Nom>Liquidambar styraciflua L.</Nom>
+    <NomsVernaculaires>
+        <Français>Liquidambard</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Liquidambar</Genus>
+        <Species>styraciflua</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/39501</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/659.jpg</Pseudoscan>
+        <Pseudoscan>train/1081.jpg</Pseudoscan>
+        <Scan>train/1862.jpg</Scan>
+        <Pseudoscan>train/2473.jpg</Pseudoscan>
+        <Scan>train/2889.jpg</Scan>
+        <Scan>train/3337.jpg</Scan>
+        <Pseudoscan>train/3340.jpg</Pseudoscan>
+        <Pseudoscan>train/3606.jpg</Pseudoscan>
+        <Pseudoscan>train/4067.jpg</Pseudoscan>
+        <Pseudoscan>train/4619.jpg</Pseudoscan>
+        <Scan>train/4706.jpg</Scan>
+        <Scan>train/5132.jpg</Scan>
+        <Scan>train/5953.jpg</Scan>
+        <Scan>train/6563.jpg</Scan>
+        <Pseudoscan>train/6962.jpg</Pseudoscan>
+        <Scan>train/7256.jpg</Scan>
+        <Scan>train/8321.jpg</Scan>
+        <Scan>train/8391.jpg</Scan>
+        <Scan>train/8699.jpg</Scan>
+        <Scan>train/8897.jpg</Scan>
+        <Scan>train/9628.jpg</Scan>
+        <Pseudoscan>train/9767.jpg</Pseudoscan>
+        <Pseudoscan>train/10237.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

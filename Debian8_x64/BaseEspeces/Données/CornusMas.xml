@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>CornusMas</ID>
+    <Nom>Cornus mas L.</Nom>
+    <NomsVernaculaires>
+        <Français>Cornouiller mâle</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Cornus</Genus>
+        <Species>mas</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/18956</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1642</NumeroTaxon>
+        <Description>Arbrisseau de 2 à 5 mètres, à rameaux grisâtres ou verdâtres ; feuilles ovales-Acuminees, courtement pétiolées, fermes, plus pâles et un peu laineuses aux aisselles des nervures en dessous ; fleurs jaunes, en petites ombelles simples, subsessiles, latérales, opposées, paraissant avant les feuilles, à 6-10 rayons courts, pubescents ; involucre à 4 folioles concaves, ovales, obtuses, égalant presque l'ombelle ; pétales lancéolés, réfléhis ; drupe assez grosse (1 cm. de long), elliptique-oblongue, acidule et rouge à la maturité.</Description>
+        <Localisation>Bois et haies des terrains calcaires, dans presque toute la France. Europe centrale et méridionale ; Caucase, Asie Mineure, Arménie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/28.jpg</Scan>
+        <Pseudoscan>train/601.jpg</Pseudoscan>
+        <Pseudoscan>train/852.jpg</Pseudoscan>
+        <Pseudoscan>train/901.jpg</Pseudoscan>
+        <Photograph>train/1010.jpg</Photograph>
+        <Pseudoscan>train/1284.jpg</Pseudoscan>
+        <Pseudoscan>train/1569.jpg</Pseudoscan>
+        <Pseudoscan>train/1578.jpg</Pseudoscan>
+        <Pseudoscan>train/1926.jpg</Pseudoscan>
+        <Pseudoscan>train/2048.jpg</Pseudoscan>
+        <Pseudoscan>train/2146.jpg</Pseudoscan>
+        <Pseudoscan>train/2443.jpg</Pseudoscan>
+        <Pseudoscan>train/2575.jpg</Pseudoscan>
+        <Photograph>train/2634.jpg</Photograph>
+        <Scan>train/2793.jpg</Scan>
+        <Pseudoscan>train/2844.jpg</Pseudoscan>
+        <Pseudoscan>train/2969.jpg</Pseudoscan>
+        <Pseudoscan>train/3012.jpg</Pseudoscan>
+        <Pseudoscan>train/3612.jpg</Pseudoscan>
+        <Scan>train/3661.jpg</Scan>
+        <Scan>train/3681.jpg</Scan>
+        <Photograph>train/4026.jpg</Photograph>
+        <Pseudoscan>train/4054.jpg</Pseudoscan>
+        <Pseudoscan>train/4448.jpg</Pseudoscan>
+        <Photograph>train/4520.jpg</Photograph>
+        <Scan>train/4645.jpg</Scan>
+        <Pseudoscan>train/4880.jpg</Pseudoscan>
+        <Pseudoscan>train/5088.jpg</Pseudoscan>
+        <Pseudoscan>train/5127.jpg</Pseudoscan>
+        <Pseudoscan>train/5301.jpg</Pseudoscan>
+        <Pseudoscan>train/5384.jpg</Pseudoscan>
+        <Pseudoscan>train/5430.jpg</Pseudoscan>
+        <Scan>train/5671.jpg</Scan>
+        <Pseudoscan>train/5783.jpg</Pseudoscan>
+        <Pseudoscan>train/5787.jpg</Pseudoscan>
+        <Pseudoscan>train/5822.jpg</Pseudoscan>
+        <Scan>train/6382.jpg</Scan>
+        <Pseudoscan>train/6524.jpg</Pseudoscan>
+        <Pseudoscan>train/6588.jpg</Pseudoscan>
+        <Scan>train/6620.jpg</Scan>
+        <Scan>train/6919.jpg</Scan>
+        <Pseudoscan>train/7385.jpg</Pseudoscan>
+        <Pseudoscan>train/8505.jpg</Pseudoscan>
+        <Pseudoscan>train/8682.jpg</Pseudoscan>
+        <Scan>train/8843.jpg</Scan>
+        <Pseudoscan>train/8981.jpg</Pseudoscan>
+        <Photograph>train/9032.jpg</Photograph>
+        <Pseudoscan>train/9359.jpg</Pseudoscan>
+        <Pseudoscan>train/10430.jpg</Pseudoscan>
+        <Pseudoscan>train/10527.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

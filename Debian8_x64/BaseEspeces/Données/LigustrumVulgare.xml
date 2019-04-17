@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>LigustrumVulgare</ID>
+    <Nom>Ligustrum vulgare L.</Nom>
+    <NomsVernaculaires>
+        <Français>Troène</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Ligustrum</Genus>
+        <Species>vulgare</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Obtuse</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/38945</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>2461</NumeroTaxon>
+        <Description>Arbrisseau de 1-3 mètres, à jeunes rameaux pubérulents ; feuilles opposées, tardivement caduques, Lanceolees ou obovales-elliptiques, entières, épaisses, glabres, vertes, courtement pétiolées ; fleurs blanches, odorantes, en panicules ou thyrses terminaux petits et serrés ; calice petit, caduc, à 4 dents ; corolle en entonnoir, à tube dépassant le calice, à 4 lobes étalés, ovales, concaves ; etamines incluses ; stigmate bifide ; baie du volume d'un pois (3 mm de diam.), globuleuse, noire, amère, longtemps persistante, à 2 loges et à 2-4 graines.</Description>
+        <Localisation>Haies et bois, dans toute la France. Europe, jusque dans le sud de la Norvége ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/857.jpg</Scan>
+        <Scan>train/925.jpg</Scan>
+        <Scan>train/1136.jpg</Scan>
+        <Scan>train/1467.jpg</Scan>
+        <Scan>train/1514.jpg</Scan>
+        <Scan>train/1566.jpg</Scan>
+        <Pseudoscan>train/2424.jpg</Pseudoscan>
+        <Scan>train/3131.jpg</Scan>
+        <Scan>train/3173.jpg</Scan>
+        <Scan>train/3614.jpg</Scan>
+        <Scan>train/3722.jpg</Scan>
+        <Scan>train/4039.jpg</Scan>
+        <Scan>train/4194.jpg</Scan>
+        <Scan>train/4674.jpg</Scan>
+        <Scan>train/4691.jpg</Scan>
+        <Scan>train/5732.jpg</Scan>
+        <Scan>train/6299.jpg</Scan>
+        <Scan>train/6540.jpg</Scan>
+        <Scan>train/6761.jpg</Scan>
+        <Scan>train/6824.jpg</Scan>
+        <Scan>train/8366.jpg</Scan>
+        <Scan>train/8398.jpg</Scan>
+        <Scan>train/8754.jpg</Scan>
+        <Scan>train/9096.jpg</Scan>
+        <Scan>train/9252.jpg</Scan>
+        <Scan>train/9312.jpg</Scan>
+        <Scan>train/9931.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

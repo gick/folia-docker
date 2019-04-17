@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixAurita</ID>
+    <Nom>Salix aurita L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule à oreillettes</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>aurita</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/59317</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+</Espèce>

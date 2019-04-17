@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusSuber</ID>
+    <Nom>Quercus suber L.</Nom>
+    <NomsVernaculaires>
+        <Français>Chêne-liège</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>suber</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Oblongue</Forme>
+            <Bord>Entiere</Bord>
+            <Bord>Dentee</Bord>
+            <Bord>Epineuse</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54585</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3272</NumeroTaxon>
+        <Description>Arbre de 5-15 mètres, à écorce spongieuse-subéreuse, très épaisse, crevassée, à ramules gris-tomenteux ; feuilles coriaces, persistant 2 ans, pétiolées, ovales ou oblongues, dentées-épineuses ou presque entières, vertes en dessus, blanchâtres-tomenteuses en dessous, à 10-14 nervures secondaires ; chatons mâles allongés, poilus ; fruits subsessiles sur les ramures de l'année ; cupule conique à la base, grise-tomenteuse, à écailles un peu saillantes, les supérieures plus longues et dressées ; gland surmonté d'une pointe courte et velue.</Description>
+        <Localisation>Coteaux siliceux du littoral méditerranéen ; PyréncesOrientales, Var, Alpes-Maritimes ; Corse. Sardaigne, Italie, Sicile, Espagne et Portugal ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

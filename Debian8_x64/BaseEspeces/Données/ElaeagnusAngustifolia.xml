@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>ElaeagnusAngustifolia</ID>
+    <Nom>Elaeagnus angustifolia L.</Nom>
+    <NomsVernaculaires>
+        <Français>Olivier de Bohème</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Elaeagnus</Genus>
+        <Species>angustifolia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/23606</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3186</NumeroTaxon>
+        <Description>Arbre ou arbrisseau de 2 à 12 mètres, inerme ou spinescent, à vieux rameaux brun foncé, les jeunes gris argenté ; feuilles courtement pétiolées, ovales-oblongues ou Lanceolees, penninervées, d'un vert grisâtre en dessus, blanches-argentées et écailleuses en dessous ; fleurs argentées en dehors, jaunes en dedans, odorantes, pédicellées, hermaphrodites-polygames, solitaires ou 2-3 en petits faisceaux axillaires ; périanthe tubuleux en cloche à 4 lobes triangulaires aigus ; stigmate en massue ; fruit ovale, jaunâtre ou rougeâtre, à saveur douceâtre, comestible.</Description>
+        <Localisation>Bords des fossés et sables du littoral, en Provence, Languedoc, Roussillon, o il est cultivé et subspontané. Europe méditerranéenne ; Asie ; Egypte. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/8510.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

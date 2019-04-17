@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SambucusRacemosa</ID>
+    <Nom>Sambucus racemosa L.</Nom>
+    <NomsVernaculaires>
+        <Français>Sureau à grappes</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sambucus</Genus>
+        <Species>racemosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75811</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1648</NumeroTaxon>
+        <Description>Arbrisseau de 2-4 mètres, à rameaux ligneux, verruqueux grisàtres, à moelle jaunâtre ; </Description>
+        <Localisation>Bois des montagnes, surtout dans la zone du hètre et du sapin ; nul dans l'Ouest et la région méditerranéenne. Europe, surtout centrale ; Siberie ; Amérique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

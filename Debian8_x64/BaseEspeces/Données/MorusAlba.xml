@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>MorusAlba</ID>
+    <Nom>Morus alba L.</Nom>
+    <NomsVernaculaires>
+        <Français>Mûrier blanc</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Morus</Genus>
+        <Species>alba</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Base>En Coeur</Base>
+            <Base>Arrondie</Base>
+            <Bord>Dentee</Bord>
+            <Bord>Lobee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/42960</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3265</NumeroTaxon>
+        <Description>Arbre de 4-15 mètres ; feuilles ovales-aiguès, arrondies ou obliquement en coeur à la base, inégalement dentées ou incisées-lobées, minces, d'un vert clair, glabres, sauf les nervures et les aisselles légèrement pubescentes</Description>
+        <Localisation>Cultivé en grand, surtout dans le Midi, pour ses feuilles qui forment la nourriture des vers à soie. Originaire de la Mongolie et de l'Inde, il fut introduit en France à la fin du XV. siècle. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/116.jpg</Scan>
+        <Pseudoscan>train/427.jpg</Pseudoscan>
+        <Pseudoscan>train/711.jpg</Pseudoscan>
+        <Pseudoscan>train/782.jpg</Pseudoscan>
+        <Pseudoscan>train/1029.jpg</Pseudoscan>
+        <Pseudoscan>train/1056.jpg</Pseudoscan>
+        <Pseudoscan>train/1099.jpg</Pseudoscan>
+        <Pseudoscan>train/1432.jpg</Pseudoscan>
+        <Pseudoscan>train/2084.jpg</Pseudoscan>
+        <Pseudoscan>train/2249.jpg</Pseudoscan>
+        <Scan>train/2453.jpg</Scan>
+        <Scan>train/2563.jpg</Scan>
+        <Scan>train/2776.jpg</Scan>
+        <Pseudoscan>train/2881.jpg</Pseudoscan>
+        <Scan>train/2950.jpg</Scan>
+        <Pseudoscan>train/3292.jpg</Pseudoscan>
+        <Scan>train/3498.jpg</Scan>
+        <Scan>train/3518.jpg</Scan>
+        <Scan>train/3738.jpg</Scan>
+        <Pseudoscan>train/3822.jpg</Pseudoscan>
+        <Pseudoscan>train/3823.jpg</Pseudoscan>
+        <Pseudoscan>train/3827.jpg</Pseudoscan>
+        <Scan>train/3901.jpg</Scan>
+        <Pseudoscan>train/4030.jpg</Pseudoscan>
+        <Pseudoscan>train/4303.jpg</Pseudoscan>
+        <Pseudoscan>train/4582.jpg</Pseudoscan>
+        <Pseudoscan>train/4732.jpg</Pseudoscan>
+        <Scan>train/5050.jpg</Scan>
+        <Pseudoscan>train/5757.jpg</Pseudoscan>
+        <Scan>train/5926.jpg</Scan>
+        <Pseudoscan>train/6051.jpg</Pseudoscan>
+        <Pseudoscan>train/6353.jpg</Pseudoscan>
+        <Pseudoscan>train/6416.jpg</Pseudoscan>
+        <Pseudoscan>train/6666.jpg</Pseudoscan>
+        <Scan>train/6825.jpg</Scan>
+        <Pseudoscan>train/6846.jpg</Pseudoscan>
+        <Scan>train/6873.jpg</Scan>
+        <Pseudoscan>train/7359.jpg</Pseudoscan>
+        <Pseudoscan>train/7423.jpg</Pseudoscan>
+        <Pseudoscan>train/7425.jpg</Pseudoscan>
+        <Scan>train/7535.jpg</Scan>
+        <Scan>train/7775.jpg</Scan>
+        <Pseudoscan>train/7848.jpg</Pseudoscan>
+        <Pseudoscan>train/7976.jpg</Pseudoscan>
+        <Pseudoscan>train/8119.jpg</Pseudoscan>
+        <Scan>train/8123.jpg</Scan>
+        <Pseudoscan>train/8458.jpg</Pseudoscan>
+        <Pseudoscan>train/8502.jpg</Pseudoscan>
+        <Pseudoscan>train/9171.jpg</Pseudoscan>
+        <Pseudoscan>train/9196.jpg</Pseudoscan>
+        <Scan>train/9348.jpg</Scan>
+        <Scan>train/9847.jpg</Scan>
+        <Scan>train/9969.jpg</Scan>
+        <Pseudoscan>train/10144.jpg</Pseudoscan>
+        <Pseudoscan>train/10337.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>DaphneLaureola</ID>
+    <Nom>Daphne laureola L.</Nom>
+    <NomsVernaculaires>
+        <Français>Laurier des bois</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Daphne</Genus>
+        <Species>laureola</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Forme>Obovale</Forme>
+            <Base>Attenuee</Base>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/21588</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3172</NumeroTaxon>
+        <Description>Arbrisseau de 40 cm. à 1 mètre et plus, à tiges dressées, très souples, grisâtres ; rameaux glabres, feuillés en rosette au sommet ; feuilles glabres, coriaces, persistantes, longues de 6-12 cm. sur 2-3, obovales-Lanceolees, atténuées en court pétiole, nervees, précédant les fleurs ; fleurs jaune verdâtre, peu odorantes, pedicellées, disposées 3-10 en petites grappes axillaires penchées, à bractées jaunâtres bien plus courtes qu'elles ; périanthe glabre, à lobes ovales-lancéolés 2-3 fois plus courts que le tube ; baie nue, ovoïde, à la fin noire.</Description>
+        <Localisation>Bois, surtout montueux et calcaires, dans presque toute la France ; Corse. Europe centrale et méridionale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

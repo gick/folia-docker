@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AlnusViridis</ID>
+    <Nom>Alnus viridis (Chaix) DC.</Nom>
+    <NomsVernaculaires>
+        <Français>Aulne vert</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Alnus</Genus>
+        <Species>viridis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Obtuse</Sommet>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/3333</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3318</NumeroTaxon>
+        <Description>Arbrisseau de 1-4 mètres, à écorce longtemps lisse ; jeunes pousses glabres, sillonnées-anguleuses ; bourgeons glabres, sessiles, aigus ; feuilles courtement pétiolées, largement ovales, aiguès ou obtuses, finement et irrégulièrement dentées, vertes sur les 2 faces, poilues sur les nervures et à leurs aisselles en dessous ; chatons mâles séparés des chatons femelles, 1-2 à la base des feuilles supérieures ; cônes ovoïdes, d'écailles ligneuses, à 4-5 lobules ; fruit obovale, d'aile membraneuse aussi large que la graine.</Description>
+        <Localisation>Bois et pâturages des hautes montagnes ; Alpes de la Savoie, du Dauphiné, de la Provence ; la var. en Corse. Europe centrale et orientale ; Asie et Amérique boréales. </Localisation>
+    </FloreDeCoste>
+</Espèce>

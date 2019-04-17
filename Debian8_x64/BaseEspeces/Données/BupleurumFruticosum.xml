@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>BupleurumFruticosum</ID>
+    <Nom>Bupleurum fruticosum L.</Nom>
+    <NomsVernaculaires>
+        <Français>Buplèvre arbustif</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Bupleurum</Genus>
+        <Species>fruticosum</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/11552</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1573</NumeroTaxon>
+        <Description>Sous-arbrisseau de 1 à 2 mètres, dressé, à rameaux très feuillés ; feuilles éparses, coriaces, persistantes, oblongues, Mucronees, atténuées à la base, sessiles, veinées en réseau, munies d'une bordure étroite et transparente ; ombelles convexes, à 8-20 rayons égaux involucre et involucelle à plusieurs folioles réfléchies, caduques à la maturité, plus courtes que les rayons et les pédicelles ; fruit oblong, à côtes saillantes, aiguès ; vallécules à 1 bandelette.</Description>
+        <Localisation>Garrigues et lieux stériles de la région méditerranéenne ; Provence ; Languedoc ; Roussillon ; naturalisé çà et là dans le Sud-Ouest et le Midi ; Corse. Europe méridionale ; Syrie ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

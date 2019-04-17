@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SalixTriandra</ID>
+    <Nom>Salix triandra L.</Nom>
+    <NomsVernaculaires>
+        <Français>Saule à trois étamines</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Salix</Genus>
+        <Species>triandra</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/60004</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3306</NumeroTaxon>
+        <Description>Arbrisseau de 2-5 mètres, à jeunes rameaux effilés, cannelés au sommet, glabres ; feuilles subsessiles, oblongues ou Lanceolees-Acuminees, denticulées, glabres et vertes sur les 2 faces ; chatons contemporains, grèles, cylindriques, pédonculés et feuillée à la base, les mâles plus lâches, à écailles persistantes, jaunes, glabrescentes au sommet ; 3 étamines libres, à anthères jaunes ; style court ; capsule glabre, courte, à pédicelle 3-4 fois plus long que la glande.</Description>
+        <Localisation>Lieux humides, dans presque toute la France. Europe ; Asie occidentale et boréale ; Algérie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

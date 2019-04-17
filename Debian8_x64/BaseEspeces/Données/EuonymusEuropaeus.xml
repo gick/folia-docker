@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>EuonymusEuropaeus</ID>
+    <Nom>Euonymus europaeus L. </Nom>
+    <NomsVernaculaires>
+        <Français>Fusain d'Europe</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Euonymus</Genus>
+        <Species>europaeus</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Lanceolee</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Denticulee</Bord>
+            <Taille>Moyenne</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/26384</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>710</NumeroTaxon>
+        <Description>Jeunes rameaux tétragones, verts ; feuilles moyennes, de 4-6 cm., de long, elliptiques ou ovales, Lanceolees ; fleurs d'un blanc verdâtre, 2-5 en petites cymes corymbiformes, à pédoncules peu allongés, ascendants mème à la maturité ; calice à 4 lobes ; 4 pétales, oblongs, obtus, 1-2 fois plus longs que le calice ; 4 étamines, égalant les sépales ; style assez long, à stigmate obtus ; capsule inclinée, moyenne, ovale-déprimée, à 4 (rarement 5) lobes arrondis sur le dos.</Description>
+        <Localisation>Haies et bois, dans presque toute la France et en Corse. Europe, jusqu'à la Suède ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/393.jpg</Scan>
+        <Scan>train/450.jpg</Scan>
+        <Scan>train/1553.jpg</Scan>
+        <Scan>train/2760.jpg</Scan>
+        <Scan>train/3696.jpg</Scan>
+        <Scan>train/4081.jpg</Scan>
+        <Scan>train/4978.jpg</Scan>
+        <Scan>train/5341.jpg</Scan>
+        <Scan>train/5672.jpg</Scan>
+        <Scan>train/6394.jpg</Scan>
+        <Scan>train/7793.jpg</Scan>
+        <Scan>train/9655.jpg</Scan>
+        <Scan>train/10514.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

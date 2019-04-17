@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PyrusCommunis</ID>
+    <Nom>Pyrus communis L.</Nom>
+    <NomsVernaculaires>
+        <Français>Poirier commun</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Pyrus</Genus>
+        <Species>communis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Base>Arrondie</Base>
+            <Bord>Finement Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54239</TelaBotanica>
+</Espèce>

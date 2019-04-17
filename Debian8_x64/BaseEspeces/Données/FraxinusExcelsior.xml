@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>FraxinusExcelsior</ID>
+    <Nom>Fraxinus excelsior L.</Nom>
+    <NomsVernaculaires>
+        <Français>Frêne commun</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Fraxinus</Genus>
+        <Species>excelsior</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Imparipennee</Forme>
+            <NombreFolioles>7-13</NombreFolioles>
+            <Foliole>Ovale</Foliole>
+            <Foliole>Lanceolee</Foliole>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Dentee en Scie</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75139</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>726</NumeroTaxon>
+        <Description>Arbre élevé, à gros bourgeons d'un noir velouté ; feuilles à 7-13 folioles ovales- Lanceolees, dentées en scie, Acuminees, glabres et vertes en dessus, plus pâles et pubescentes près de la côte en dessous ; fleurs brunâtres, paraissant avant les feuilles, en panicules latérales opposées et courtes ; calice et corolle nuls ; anthère presque sessiles, d'un pourpre noirâtre ; samares pendantes, oblongues, renflées inférieurement, ailées au sommet.</Description>
+        <Localisation>Bois, haies, ravins, dans toute la France et en Corse. Europe ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/171.jpg</Pseudoscan>
+        <Photograph>train/645.jpg</Photograph>
+        <Photograph>train/1923.jpg</Photograph>
+        <Scan>train/2524.jpg</Scan>
+        <Photograph>train/2573.jpg</Photograph>
+        <Pseudoscan>train/2638.jpg</Pseudoscan>
+        <Photograph>train/3082.jpg</Photograph>
+        <Pseudoscan>train/3487.jpg</Pseudoscan>
+        <Scan>train/4265.jpg</Scan>
+        <Scan>train/4793.jpg</Scan>
+        <Photograph>train/6482.jpg</Photograph>
+        <Scan>train/7750.jpg</Scan>
+        <Photograph>train/8059.jpg</Photograph>
+        <Photograph>train/8260.jpg</Photograph>
+        <Photograph>train/8487.jpg</Photograph>
+        <Pseudoscan>train/8629.jpg</Pseudoscan>
+        <Pseudoscan>train/9281.jpg</Pseudoscan>
+        <Pseudoscan>train/9448.jpg</Pseudoscan>
+        <Photograph>train/9957.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

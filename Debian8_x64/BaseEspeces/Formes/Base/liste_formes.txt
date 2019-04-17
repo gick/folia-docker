@@ -1,0 +1,13 @@
+0 Echancree
+
+1 En Coeur
+
+2 Auriculee
+
+3 Tronquee
+
+4 Arrondie
+
+5 En Coin
+
+6 Attenuee

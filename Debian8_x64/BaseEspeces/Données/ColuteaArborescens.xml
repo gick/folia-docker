@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>ColuteaArborescens</ID>
+    <Nom>Colutea arborescens L.</Nom>
+    <NomsVernaculaires>
+        <Français>Baguenaudier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Colutea</Genus>
+        <Species>arborescens</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+            <Forme>Imparipennee</Forme>
+            <NombreFolioles>7-11</NombreFolioles>
+            <Foliole>Obovale</Foliole>
+            <Sommet>Obcordee</Sommet>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/18614</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>978</NumeroTaxon>
+        <Description>Arbrisseau do 2-3 mètres, non épineux, dressé, à jeunes rameaux et feuilles finement pubescents ; feuilles imparipénnées, à 3-5 paires de folioles obovales ou Obcordees, entières ; stipules libres, Lanceolees ; fleurs jaunes, grandes (2 cm. ), penchées, 2-6 en petites grappes axillaires, pédonculées, plus courtes que la feuille ; calice pubescent, court, en cloche, à 5 dents inégales, triangulaires, 3 fois plus courtes que le tube ; etendard orbiculaire, redressé ; ailes plus courtes que la carène Tronquee au sommet ; etamines diadelphes ; stigmate latéral ; gousses de 4-6 cm. sur 2-3, pendantes, très renflées en grande vessie membraneuse, ovale, veinée, glabre, slipitée.</Description>
+        <Localisation>Coteaux calcaires de l'Est et du Midi, de la Lorraine aux Pyrénées orientales. Raee dans le Centre. Souvent cultivé et çà et là subspontané. Europe centrale et méridionale ; Asie occidentale ; Algérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/1954.jpg</Scan>
+        <Scan>train/2554.jpg</Scan>
+        <Scan>train/2659.jpg</Scan>
+        <Scan>train/2730.jpg</Scan>
+        <Scan>train/2830.jpg</Scan>
+        <Scan>train/4492.jpg</Scan>
+        <Scan>train/7100.jpg</Scan>
+        <Scan>train/7827.jpg</Scan>
+        <Scan>train/8816.jpg</Scan>
+        <Scan>train/8887.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

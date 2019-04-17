@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>MorusNigra</ID>
+    <Nom>Morus nigra L.</Nom>
+    <NomsVernaculaires>
+        <Français>Mûrier noir</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Morus</Genus>
+        <Species>nigra</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Sommet>Aigue</Sommet>
+            <Sommet>Acuminee</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/42976</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3266</NumeroTaxon>
+        <Description>Arbre de 5-20 mètres ; feuilles largement ovales-aiguès, régulièrement en coeur à la base, inégalement dentées, rarement incisées-lobées, assez épaisses, d'un vert foncé, pubescentes-rudes sur les deux faces ; epis femelles courtement pédonculés ou subsessiles ; sépales hérissés aux bords ; stigmates velus ; fruits plus gros, d'un rouge noirâtre, acidulés-sucrés.</Description>
+        <Localisation>Cultivé çà et là dans toute la France et en Corse, pour ses fruits. Originaire de la Perse et de l'Arménie, mais cultivé dès la plus haute antiquité dans le bassin méditerranéen. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/2758.jpg</Scan>
+        <Scan>train/10550.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

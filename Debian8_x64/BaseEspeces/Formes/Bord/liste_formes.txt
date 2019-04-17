@@ -1,0 +1,23 @@
+0 Entiere
+
+1 Denticulee
+
+2 Ondulee
+
+3 Crenelee
+
+4 Dentee en Scie
+
+5 Dentee
+
+6 Doublement Dentee
+
+7 Sinuee
+
+8 Epineuse
+
+9 Anguleuse
+
+10 Lobee
+
+11 Pennatifide

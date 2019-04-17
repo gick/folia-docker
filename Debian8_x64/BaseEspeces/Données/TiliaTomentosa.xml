@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>TiliaTomentosa</ID>
+    <Nom>Tilia tomentosa Moench</Nom>
+    <NomsVernaculaires>
+        <Français>Tilleul argenté</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Tilia</Genus>
+        <Species>tomentosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/68349</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+</Espèce>

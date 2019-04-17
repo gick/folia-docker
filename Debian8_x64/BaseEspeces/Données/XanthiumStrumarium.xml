@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>XanthiumStrumarium</ID>
+    <Nom>Xanthium strumarium L.</Nom>
+    <NomsVernaculaires>
+        <Français>Lampourde glouteron</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Xanthium</Genus>
+        <Species>strumarium</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/73046</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>2316</NumeroTaxon>
+        <Description>Plante annuelle de 30-80 em., à tige robuste, rameuse, pubescente, non épineuse ; feuilles longuement pétiolées, pubescentes-rudes, grisâtres en dessous, ovales-triangulaires, un peu en coeur à la base, à 3-5 lobes anguleux-dentés ; fruits agloméres, ovoïdes, assez petits (12-15 mm. de long), verdâtres, pubescents, nus au sommet, hérisses d'épines coniques, moins longues que le diamétre du fruit, droites, crochues au sommet, terminés par 2 becs coniques, droits, divariqués ou connivents, très aigus.</Description>
+        <Localisation>Décombres, lieux vagues, dans presque toute la France ; Corse. Europe. Asie occidentale, Sibérie, Inde, Afrique septentrionale ; Amérique. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Photograph>train/6538.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

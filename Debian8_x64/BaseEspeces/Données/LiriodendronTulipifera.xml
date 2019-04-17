@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>LiriodendronTulipifera</ID>
+    <Nom>Liriodendron tulipifera L.</Nom>
+    <NomsVernaculaires>
+        <Français>Tulipier de Virginie</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Liriodendron</Genus>
+        <Species>tulipifera</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/39505</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Scan>train/230.jpg</Scan>
+        <Pseudoscan>train/326.jpg</Pseudoscan>
+        <Scan>train/656.jpg</Scan>
+        <Scan>train/927.jpg</Scan>
+        <Pseudoscan>train/1147.jpg</Pseudoscan>
+        <Scan>train/1208.jpg</Scan>
+        <Scan>train/1371.jpg</Scan>
+        <Scan>train/2206.jpg</Scan>
+        <Scan>train/2322.jpg</Scan>
+        <Scan>train/2474.jpg</Scan>
+        <Scan>train/2630.jpg</Scan>
+        <Scan>train/3217.jpg</Scan>
+        <Scan>train/3330.jpg</Scan>
+        <Pseudoscan>train/4504.jpg</Pseudoscan>
+        <Pseudoscan>train/5244.jpg</Pseudoscan>
+        <Pseudoscan>train/5271.jpg</Pseudoscan>
+        <Pseudoscan>train/5310.jpg</Pseudoscan>
+        <Scan>train/6232.jpg</Scan>
+        <Scan>train/6964.jpg</Scan>
+        <Pseudoscan>train/7846.jpg</Pseudoscan>
+        <Scan>train/8734.jpg</Scan>
+        <Scan>train/8810.jpg</Scan>
+        <Pseudoscan>train/9101.jpg</Pseudoscan>
+        <Scan>train/9181.jpg</Scan>
+        <Pseudoscan>train/9603.jpg</Pseudoscan>
+        <Scan>train/10039.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

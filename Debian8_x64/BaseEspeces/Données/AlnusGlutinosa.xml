@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>AlnusGlutinosa</ID>
+    <Nom>Alnus glutinosa (L.) Gaetrn.</Nom>
+    <NomsVernaculaires>
+        <Français>Aulne glutineux</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Alnus</Genus>
+        <Species>glutinosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Suborbiculaire</Forme>
+            <Forme>Obovale</Forme>
+            <Sommet>Tronquee</Sommet>
+            <Sommet>Echancree</Sommet>
+            <Base>En Coin</Base>
+            <Bord>Sinuee</Bord>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/3318</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>3320</NumeroTaxon>
+        <Description>Arbre assez élevé, à écorce brunâtre crevassée ; jeunes rameaux glabres ; bourgeons glabres, renflés, obtus ; feuilles glutineuses, pétiolées, suborbiculaires ou obovales en coin, Tronquees ou échancrées, irrégulièrement Sinuees-dentées, vertes et glabres sur les faces, sauf les aisselles des nervures poilues, à 6-9 paires de nervures secondaires ; 3-6 chatons mâles ; cônes ovoïdes, assez petits, pédonculés ; fruit presque pentagonal, à aile coriace, plus étroite que la graine.</Description>
+        <Localisation>Bois humides, bords des eaux, dans toute la France et en Corse. Europe ; Asie tempérée ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Scan>train/746.jpg</Scan>
+        <Photograph>train/760.jpg</Photograph>
+        <Scan>train/983.jpg</Scan>
+        <Scan>train/1329.jpg</Scan>
+        <Scan>train/1741.jpg</Scan>
+        <Scan>train/3566.jpg</Scan>
+        <Pseudoscan>train/3669.jpg</Pseudoscan>
+        <Scan>train/4004.jpg</Scan>
+        <Scan>train/4158.jpg</Scan>
+        <Scan>train/4251.jpg</Scan>
+        <Scan>train/4559.jpg</Scan>
+        <Scan>train/4804.jpg</Scan>
+        <Pseudoscan>train/5326.jpg</Pseudoscan>
+        <Scan>train/5544.jpg</Scan>
+        <Pseudoscan>train/5607.jpg</Pseudoscan>
+        <Pseudoscan>train/5752.jpg</Pseudoscan>
+        <Scan>train/5901.jpg</Scan>
+        <Pseudoscan>train/6031.jpg</Pseudoscan>
+        <Photograph>train/6471.jpg</Photograph>
+        <Scan>train/7317.jpg</Scan>
+        <Scan>train/7353.jpg</Scan>
+        <Scan>train/7606.jpg</Scan>
+        <Photograph>train/8042.jpg</Photograph>
+        <Scan>train/8063.jpg</Scan>
+        <Pseudoscan>train/8157.jpg</Pseudoscan>
+        <Scan>train/8460.jpg</Scan>
+        <Scan>train/8688.jpg</Scan>
+        <Scan>train/8719.jpg</Scan>
+        <Pseudoscan>train/9131.jpg</Pseudoscan>
+        <Scan>train/9261.jpg</Scan>
+        <Pseudoscan>train/10364.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

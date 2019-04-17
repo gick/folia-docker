@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>DaphneGnidium</ID>
+    <Nom>Daphne gnidium L.</Nom>
+    <NomsVernaculaires>
+        <Français>Daphné garou</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Daphne</Genus>
+        <Species>gnidium</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Lanceolee</Forme>
+            <Forme>Lineaire</Forme>
+            <Bord>Entiere</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/21581</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>3170</NumeroTaxon>
+        <Description>Arbrisseau de 60 cm. à 1-2 mètres, à tiges dressées, à rameaux effilés, cylindriques, lisses, bruns, pubérulents au sommet, feuillés dans toute leur longueur ; feuilles glabres, subcoriaces, persistantes pendant un an, longues de 3-4 cm. sur 3-7 mm., Lanceolees-Lineaires, uninervées ; fleurs blanches, odorantes, la plupart caduques, pédicellées, disposées en panicule terminale, à pédoncules et pédicelles blancs-tomenteux ; périanthe blanc-soyeux, à lobes ouales un peu plus courts que le tube ; baie nue, ovoïde, rouge.</Description>
+        <Localisation>Lieux arides et sablonneux du Midi et du Sud-Ouest ; Provence, Languedoc, Roussillon Gironde, Charente-lnférieure, Vendée ; Corse. Région méditerranéenne. = Mars-octobre. </Localisation>
+    </FloreDeCoste>
+</Espèce>

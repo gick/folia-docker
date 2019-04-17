@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>EuonymusLatifolius</ID>
+    <Nom>Euonymus latifolius (L.) Mill. </Nom>
+    <NomsVernaculaires>
+        <Français>Fusain à larges feuilles</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Euonymus</Genus>
+        <Species>latifolius</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Oblongue</Forme>
+            <Sommet>Acuminee</Sommet>
+            <Bord>Denticulee</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/26393</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>709</NumeroTaxon>
+        <Description>Jeunes rameaux arrondis, bruns ou un peu verdâtres ; feuilles grandes, de 7-15 cm. de long, ovales-oblongues ; fleurs d'un pourpre pâle, 5-10 en cymes 2-3 fois dichotomes, à pédoncules grèles, longs, penchés à la maturité ; calice à 5 lobes, rarement à 4 ; 5-4 pétales ovales-arrondis ou suborbiculaires, très étalés, 1-2 fois plus longs que le calice ; 5-4 étamines, plus courtes que les sépales ; style très court, à stigmate en tète ; capsule pendante, grosse, subglobuleuse, déprimée, à 5 (rarement 4) lobes, très comprimés et tranchants sur le dos.</Description>
+        <Localisation>Bois des montagnes de l'Est et du Midi ; Bugey ; Alpes de la Savoie, du Dauphiné, de la Provence, jusque dans le Var et le Vaucluse ; Cévennes du Gard et de l'Aveyron ; Pyrénées-Orientales. Europe centrale et méridionale ; Asie occidentale ; Algérie. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Photograph>train/8568.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

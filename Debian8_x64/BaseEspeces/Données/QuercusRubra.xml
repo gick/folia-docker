@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>QuercusRubra</ID>
+    <Nom>Quercus rubra L.</Nom>
+    <NomsVernaculaires>
+        <Français>Chêne rouge</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Quercus</Genus>
+        <Species>rubra</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Obovale</Forme>
+            <NombreLobes>8-10</NombreLobes>
+            <Bord>Lobee</Bord>
+            <Bord>Epineuse</Bord>
+            <Taille>Grande</Taille>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54564</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <Pl@ntLeaves>
+        <Scan>train/61.jpg</Scan>
+        <Scan>train/246.jpg</Scan>
+        <Scan>train/811.jpg</Scan>
+        <Scan>train/988.jpg</Scan>
+        <Scan>train/1050.jpg</Scan>
+        <Scan>train/1600.jpg</Scan>
+        <Scan>train/1885.jpg</Scan>
+        <Scan>train/1898.jpg</Scan>
+        <Scan>train/2327.jpg</Scan>
+        <Scan>train/3772.jpg</Scan>
+        <Scan>train/3893.jpg</Scan>
+        <Scan>train/4544.jpg</Scan>
+        <Scan>train/4785.jpg</Scan>
+        <Scan>train/6667.jpg</Scan>
+        <Scan>train/7877.jpg</Scan>
+        <Scan>train/8044.jpg</Scan>
+        <Scan>train/8772.jpg</Scan>
+        <Scan>train/9218.jpg</Scan>
+        <Scan>train/9686.jpg</Scan>
+        <Scan>train/9886.jpg</Scan>
+        <Scan>train/10011.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

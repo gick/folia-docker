@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RosaRubiginosa</ID>
+    <Nom>Rosa rubiginosa L.</Nom>
+    <NomsVernaculaires>
+        <Français>Rosier rouillé</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rosa</Genus>
+        <Species>rubiginosa</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/57436</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1222</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 2 mètres, à port touffu, à tiges de l'année droites et raides ; aiguillons inegaux, très crochus, souvent entremèlés d'acicules ; feuilles à 5-9 folioles ovales-arrondies ou largement elliptiques, très glanduleuses en dessous, à dents peu profondes, composées-glanduleuses ; fleurs d'un rose vif, assez petites, solitaires ou en corymbes ; pédicelles assez longs, hispides-glanduleux ; sépales allongés glanduleux sur le dos, redressés et longtemps persistants sur le fruit, les extérieurs à appendices courts ; stigmates en tète velue-hérissée ; fruit médiocre.</Description>
+        <Localisation>Plaines et montagnes, de presque toute la France. Europe presque entière, surtout centrale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

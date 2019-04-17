@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>SorbusAria</ID>
+    <Nom>Sorbus aria (L.) Crantz </Nom>
+    <NomsVernaculaires>
+        <Français>Alisier blanc</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Sorbus</Genus>
+        <Species>aria</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+            <Forme>Ovale</Forme>
+            <Forme>Elliptique</Forme>
+            <Sommet>Arrondie</Sommet>
+            <Sommet>Obtuse</Sommet>
+            <Bord>Doublement Dentee</Bord>
+            <Bord>Lobee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/75389</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1270</NumeroTaxon>
+        <Description>Arbuste ou arbre assez élevé, à bourgeons un peu tomenteux ; feuilles très blanches-tomenteuses en dessous , vertes, glabres et ridées en dessus, ovales ou elliptiques, doublement dentées ou légèrement lobées, à dents et lobes décroissant du sommet à la base, à 8-12 paires de nervures saillantes convexes en dehors ; pétiole égalant le 5ème du limbe ; fleurs blanches, en corymbes amples ; pétales élalés ; 2 styles, libres, velus à la base ; fruit subglobuleux, farineux-pulpeux, d'un rouge orangé, à saveur un peu acide.</Description>
+        <Localisation>Bois et rochers des montagnes dans une grande partie de la France ; nul dans l'Ouest et la région méditerranéenne ; Corse. Europe ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+    <Pl@ntLeaves>
+        <Pseudoscan>train/1020.jpg</Pseudoscan>
+        <Pseudoscan>train/1258.jpg</Pseudoscan>
+        <Pseudoscan>train/2660.jpg</Pseudoscan>
+        <Pseudoscan>train/2815.jpg</Pseudoscan>
+        <Pseudoscan>train/2892.jpg</Pseudoscan>
+        <Pseudoscan>train/3028.jpg</Pseudoscan>
+        <Pseudoscan>train/3806.jpg</Pseudoscan>
+        <Pseudoscan>train/4112.jpg</Pseudoscan>
+        <Pseudoscan>train/4404.jpg</Pseudoscan>
+        <Pseudoscan>train/4841.jpg</Pseudoscan>
+        <Pseudoscan>train/5372.jpg</Pseudoscan>
+        <Pseudoscan>train/5900.jpg</Pseudoscan>
+        <Pseudoscan>train/6457.jpg</Pseudoscan>
+        <Pseudoscan>train/7377.jpg</Pseudoscan>
+        <Pseudoscan>train/7474.jpg</Pseudoscan>
+        <Pseudoscan>train/7512.jpg</Pseudoscan>
+        <Pseudoscan>train/9182.jpg</Pseudoscan>
+        <Pseudoscan>train/9292.jpg</Pseudoscan>
+        <Pseudoscan>train/9360.jpg</Pseudoscan>
+        <Pseudoscan>train/10523.jpg</Pseudoscan>
+    </Pl@ntLeaves>
+</Espèce>

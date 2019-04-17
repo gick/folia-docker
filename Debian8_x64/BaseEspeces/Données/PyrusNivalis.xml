@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>PyrusNivalis</ID>
+    <Nom>Pyrus nivalis Jacq.</Nom>
+    <NomsVernaculaires>
+        <Français>Poirier des neiges</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Pyrus</Genus>
+        <Species>nivalis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/54298</TelaBotanica>
+    <Pl@ntLeaves>
+        <Photograph>train/6240.jpg</Photograph>
+        <Photograph>train/8105.jpg</Photograph>
+    </Pl@ntLeaves>
+</Espèce>

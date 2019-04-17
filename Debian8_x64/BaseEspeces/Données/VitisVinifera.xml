@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>VitisVinifera</ID>
+    <Nom>Vitis vinifera L.</Nom>
+    <NomsVernaculaires>
+        <Français>Vigne cultivée</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Vitis</Genus>
+        <Species>vinifera</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Palmatilobee</Type>
+            <Forme>Palmatilobee</Forme>
+            <NombreLobes>5</NombreLobes>
+            <Sommet>Aigue</Sommet>
+            <Base>En Coeur</Base>
+            <Bord>Sinuee</Bord>
+            <Bord>Dentee</Bord>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/72795</TelaBotanica>
+    <FloreDeCoste>
+        <NumeroTaxon>694</NumeroTaxon>
+        <Description>Arbuste sarmenteux, grimpant, muni de vrilles opposées aux feuilles ; feuilles alternes, pétiolées, Palmatilobees, en coeur à la base, à 5 lobes aigus, sinués dentés, souvent velues en dessous, à stipules caduques ; fleurs régulières, petites, verdâtres, odorantes, en thyrses denses, opposées aux feuilles, d'abord dressés, puis penchés ; calice monosépale, à 5 dents très courtes, caduques ; 5 pétales, soudés au sommet et à la base, très fugaces ; 5 étamines, insérées sur un disque hypogyne glanduleux, opposées aux pétales ; 1 style très court, stigmate en tète ; baie ovoïde ou globuleuse, noire ou blanchâtre, acidule à l'état sauvage, à 1 loge et à 5 graines osseuses.</Description>
+        <Localisation>Bois et rochers bien abrités de tout le Midi. Cultivé en grand dans presque toute la France et en Corse. Europe méridionale ; Asie occidentale ; Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

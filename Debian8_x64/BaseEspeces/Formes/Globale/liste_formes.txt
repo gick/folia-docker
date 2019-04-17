@@ -1,0 +1,18 @@
+0 Lineaire
+1 Lanceolee
+
+2 Oblongue
+
+3 Ovale
+
+4 Elliptique
+
+5 Obovale
+
+6 Suborbiculaire
+
+7 Triangulaire
+
+8 Orbiculaire
+
+9 Cordee

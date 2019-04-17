@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>BetulaUtilis</ID>
+    <Nom>Betula utilis D.Don</Nom>
+    <NomsVernaculaires>
+        <Français>Bouleau de l'Himalaya</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Betula</Genus>
+        <Species>utilis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/9580</TelaBotanica>
+    <Pl@ntLeaves>
+        <Scan>train/0.jpg</Scan>
+        <Scan>train/0.jpg</Scan>
+        <Scan>train/237.jpg</Scan>
+        <Scan>train/757.jpg</Scan>
+        <Scan>train/1150.jpg</Scan>
+        <Scan>train/2845.jpg</Scan>
+        <Scan>train/4204.jpg</Scan>
+        <Scan>train/4206.jpg</Scan>
+        <Scan>train/4337.jpg</Scan>
+        <Scan>train/5284.jpg</Scan>
+        <Scan>train/5933.jpg</Scan>
+        <Scan>train/6089.jpg</Scan>
+        <Scan>train/6219.jpg</Scan>
+        <Scan>train/6317.jpg</Scan>
+        <Scan>train/7514.jpg</Scan>
+        <Scan>train/7797.jpg</Scan>
+        <Scan>train/8602.jpg</Scan>
+        <Scan>train/8798.jpg</Scan>
+    </Pl@ntLeaves>
+</Espèce>

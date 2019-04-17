@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RosaCanina</ID>
+    <Nom>Rosa canina L.</Nom>
+    <NomsVernaculaires>
+        <Français>Rosier des chiens</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rosa</Genus>
+        <Species>canina</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/56619</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1233</NumeroTaxon>
+        <Description>Arbrisseau de 1 à 3 mètres, généralement verdâtre et à rameaux robustes, dressés ; aiguillons forts, crochus ou arqués, dilatés à la base ; feuilles à 5-7 folioles plus ou moins grandes, ovales ou elliptiques, glabres, à dents simples, doubles ou composées-glanduleuses ; stipules et bractées dilatées, allongées ; fleurs roses ou blanches, plus ou moins grandes, solitaires ou en corymbes ; pédicelles lisses, plus rarement hispides-glanduleux à glandes inodores ; sépales appendiculés, réfléchis après la floraison et promptement caducs ; stigmates en tète velue ou glabre ; fruit gros, presque toujours lisse.</Description>
+        <Localisation>Région de la plaine et des basses montagnes, dans toute la France et en Corse. Europe, Asie occidontale, Afrique septentrionale. </Localisation>
+    </FloreDeCoste>
+</Espèce>

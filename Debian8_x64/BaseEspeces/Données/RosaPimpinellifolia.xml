@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>RosaPimpinellifolia</ID>
+    <Nom>Rosa pimpinellifolia L.</Nom>
+    <NomsVernaculaires>
+        <Français>Rosier pimprenelle</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Rosa</Genus>
+        <Species>pimpinellifolia</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Pennée</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/57303</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>1213</NumeroTaxon>
+        <Description>Arbrisseau peu élevé, souvent nain, à souche traçante ; aiguillons nombreux, droits, inégaux, entremèlés d'acicules ; feuilles à 7-9 folioles petites, arrondies, glabres, simplement dentées, rarement glanduleuses en dessous et doublement dentées ; stipules étroites, à oreillettes brusquement dilatées et très divergentes ; fleurs blanches, grandes, solitaires, sans bractées ; pédicelles lisses ou hispides, droits ; sépales entiers, redressés et persistants sur le fruit mur ; styles inclus, stigmates en tète velue ; fruit gros, d'un rouge noirâtre à la maturité.</Description>
+        <Localisation>Haies, bois, lieux secs, dans presque toute la France. Europe, surtout centrale. Asie occidentale et centrale jusqu'à la Chine et la Mandchourie. </Localisation>
+    </FloreDeCoste>
+</Espèce>

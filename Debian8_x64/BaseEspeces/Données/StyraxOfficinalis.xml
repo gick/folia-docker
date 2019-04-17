@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Espèce>
+    <ID>StyraxOfficinalis</ID>
+    <Nom>Styrax officinalis L.</Nom>
+    <NomsVernaculaires>
+        <Français>Aliboufier</Français>
+    </NomsVernaculaires>
+    <Taxon>
+        <Division>Angiospermes</Division>
+        <Genus>Styrax</Genus>
+        <Species>officinalis</Species>
+    </Taxon>
+    <DonnéesBotaniques>
+        <Feuille>
+            <Type>Simple</Type>
+        </Feuille>
+    </DonnéesBotaniques>
+    <TelaBotanica>http://www.tela-botanica.org/eflore/BDNFF/4.02/nn/66503</TelaBotanica>
+    <DonnéesGéographiques>1</DonnéesGéographiques>
+    <FloreDeCoste>
+        <NumeroTaxon>2459</NumeroTaxon>
+        <Description>Arbrisseau tortueux ou arbre de 2 à 7 mètres ; feuilles alternes, caduques, pétiolées, ovales-obtuses, entières, vertes et glabrescentes en dessus, blanches-tomenteuses en dessous, sans stipules ; fleurs blanches, 3-6 en petits corymbes tomenteux terminant les petits rameaux et plus courts que les feuilles ; calice tomenteux, en coupe Tronquee presque entière ou à 5 petites dents ; corolle grande, en cloche tomenteuse, à tube très court, à 5-7 lobes lancéolés 3-4 fois plus longs que le calice ; environ 12 étamines, insérées à la base de la corolle ; style simple, allongé ; fruit coriace, charnu, ovoïde, blanchâtre-cotonneux, soudé par la base au calice persistant, à 1 loge, à 3 valves, à 1-2 graines grosses.</Description>
+        <Localisation>Bois dans le Var méridional, o il couvre plusieurs collines calcaires. Italie, Dalmatie, Grèce, Crète, Rhodes ; Asie occidentale. </Localisation>
+    </FloreDeCoste>
+</Espèce>
