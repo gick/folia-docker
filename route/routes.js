@@ -1,9 +1,8 @@
-module.exports = function(app,io) {
+module.exports = function(app) {
     var fs = require("fs");
     var async = require("async");
     var util=require('util')
     var LineByLineReader = require("line-by-line");
-
     var childProcess = require("child_process");
 
     // normal routes ===============================================================
@@ -11,7 +10,7 @@ module.exports = function(app,io) {
     //###################################################################
     //--------------- UTILITY FUNCTIONS
     //###################################################################
-    function sendCSV(csvPath,socketID){
+    function sendCSV(csvPath,res){
         var resultCSV = [];
         lr = new LineByLineReader(csvPath);
         lr.on("error", function(err) {
@@ -23,54 +22,56 @@ module.exports = function(app,io) {
         });
       
         lr.on("end", function() {
-            io.to(socketID.socket).emit('foliaResult',resultCSV)
+            res.sseSend({data:resultCSV},'result')
+            res.end()
         })
     }
-    function analysis(socketID){
+    function analysis(uid,res){
         console.log("analysis")
         let base = "/tmp/";
-        let leafPath = base +socketID.socket +'out.jpg';
-        let colorPath = base + socketID.socket+'out.png';
-        let maskPath = base + socketID.socket+"mask.png";
-        let csvPath = base + socketID.socket+"out.mask.csv";
+        let leafPath = base +uid +'out.jpg';
+        let colorPath = base + uid+'out.png';
+        let maskPath = base + uid+"mask.png";
+        let csvPath = base + uid+"out.mask.csv";
         var spw = childProcess.spawn(process.env.FOLIA_PATH, [
           leafPath,
           colorPath,
           maskPath,
           csvPath
         ],{cwd:process.env.FOLIA_CWD});
+        setTimeout(function(){
+          spw.kill()
+          res.sseSend({error:'timeout'},'result')
+          res.end()
+        },50000)
         console.log(leafPath + ' ' + colorPath+ ' ' + maskPath + ' '+ csvPath)
         //var spw = process.spawn('ping', ['-c', '5', '127.0.0.1']),
         str = "";
         spw.stdout.on("data", data => {
-          str += data.toString();
           console.log(data.toString())
-          console.log(socketID)
-          io.to(socketID.socket).emit('foliaProgress',data.toString())
+          str += data.toString();
+          res.sseSend({info:data.toString()},'progress')
           // just so we can see the server is doing something
           // Flush out line by line.
         });
         spw.on("close",(code)=>{
             if(code==0)
-            sendCSV(csvPath,socketID)
+            sendCSV(csvPath,res)
         })
       
       
     }
-    app.get("/id",function(req,res){
-        console.log(socket.id)
-        res.send(socket.id)
-    })
-    app.post("/setupImages", function(req, res) {
+    app.post("/api/setupImages", function(req, res) {
+        console.log("start")
         const writeFile = util.promisify(fs.writeFile);
-        let socketID=req.body.socketID
+        let uid=Date.now().toString()
         let base64Trace=req.body.trace.replace(/^data:image\/png;base64,/, "")
-        res.send({success:true}) 
-        writeFile('/tmp/'+socketID.socket+'out.png',base64Trace,'base64').then(
+        res.sseSetup() 
+        writeFile('/tmp/'+uid+'out.png',base64Trace,'base64').then(
             ()=>{
                 let base64Leaf=req.body.leaf.replace(/^data:image\/jpeg;base64,/, "") 
-                writeFile('/tmp/'+socketID.socket+'out.jpg',base64Leaf,'base64').then(
-                    ()=>{analysis(socketID)}
+                writeFile('/tmp/'+uid+'out.jpg',base64Leaf,'base64').then(
+                    ()=>{analysis(uid,res)}
                 )
             }
         )

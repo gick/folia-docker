@@ -10,6 +10,7 @@ module.exports = {
       {
         name      : 'folia-server',
         script    : 'app.js',
+        watch:true,
         env: {
           NODE_ENV: 'development',
           'FOLIA_PATH':'/home/gick/Dev/folia-backend/Debian8_x64/Algo_LIRIS_Debian_x64',

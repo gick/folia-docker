@@ -1,17 +1,11 @@
 let express=require('express')
 let bodyParser=require('body-parser')
+let morgan=require('morgan')
 let cors=require('cors')
-
+let sse=require('./sse')
 var app = express();
-var server = require('http').createServer(app);
-var io = require('socket.io')(server);
-io.on('connection', function (socket) {
-    require('./route/routes.js')(app,io)
-    console.log('socket connected')
-    socket.emit('setID', { socket: socket.id });
-  });
-  console.log(process.env.NODE_ENV)
-
+app.use(sse)
+app.use(morgan('combined'))
 app.use(cors({
     origin:['http://localhost:8081','http://localhost:8000','http://localhost:3000','http://albiziapp.reveries-project.fr','https://albiziapp.reveries-project.fr'],
     methods:['GET','POST'],
@@ -21,4 +15,5 @@ app.use(cors({
 app.use(bodyParser({limit: '50mb'}))
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:true}))
-server.listen(8081)
+require('./route/routes')(app)
+app.listen(8081)
